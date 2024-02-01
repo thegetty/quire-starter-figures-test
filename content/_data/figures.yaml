@@ -1,6 +1,4298 @@
 figure_list:
 
-  - id: ""
-    src: 
-    caption: ""
+  - id: 'cat-1'
+    label: 'Cat. 1' 
+    src: figures/cat-01.jpg
+    caption: 'Statue of a Seated Poet (Orpheus?), 330-300 BC, Taranto region. 76.AD.11.1, https://www.getty.edu/art/collection/objects/13144'
+    zoom: true
+
+  - id: 'cat-2'
+    label: 'Cat. 2' 
+    src: figures/cat-02.jpg
+    caption: 'Statue of a Standing Siren A, 330-300 BC, Taranto region. 76.AD.11.2, https://www.getty.edu/art/collection/objects/13145'
+    zoom: true
+
+  - id: 'cat-3'
+    label: 'Cat. 3' 
+    src: figures/cat-03.jpg
+    caption: 'Statue of a Standing Siren B, 330-300 BC, Taranto region. 76.AD.11.3, https://www.getty.edu/art/collection/objects/13146'
+    zoom: true
+
+  - id: 'cat-4'
+    label: 'Cat. 4' 
+    src: figures/cat-04.jpg
+    caption: 'Head of a Man, Late fifth century BC, Taranto region. 82.AD.93.12, https://www.getty.edu/art/collection/objects/14442'
+    zoom: true
+
+  - id: 'cat-5'
+    label: 'Cat. 5' 
+    src: figures/cat-05.jpg
+    caption: 'Head of a Man, Late fourth-early third century BC, Taranto region. 82.AD.93.13, https://www.getty.edu/art/collection/objects/14443'
+    zoom: true
+
+  - id: 'cat-6'
+    label: 'Cat. 6' 
+    src: figures/cat-06.jpg
+    caption: 'Head of a Man, Fourth century BC, Taranto region. 82.AD.93.18, https://www.getty.edu/art/collection/objects/14448'
+    zoom: true
+
+  - id: 'cat-7'
+    label: 'Cat. 7' 
+    src: figures/cat-07.jpg
+    caption: 'Head of a Male Banqueter, 400-300 BC, Taranto region. 82.AD.93.11, https://www.getty.edu/art/collection/objects/14441'
+    zoom: true
+
+  - id: 'cat-8'
+    label: 'Cat. 8' 
+    src: figures/cat-08.jpg
+    caption: 'Head of a Male Banqueter, Fourth century  BC, Taranto region. 82.AD.93.9, https://www.getty.edu/art/collection/objects/14439'
+    zoom: true
+
+  - id: 'cat-9'
+    label: 'Cat. 9' 
+    src: figures/cat-09.jpg
+    caption: 'Head of a Woman, About 350  BC, Taranto region. 82.AD.93.3, https://www.getty.edu/art/collection/objects/14433'
+    zoom: true
+
+  - id: 'cat-10'
+    label: 'Cat. 10' 
+    src: figures/cat-10.jpg
+    caption: 'Head of a Woman, About 350 BC, Taranto region. 82.AD.93.2, https://www.getty.edu/art/collection/objects/14432'
+    zoom: true
+
+  - id: 'cat-11'
+    label: 'Cat. 11' 
+    src: figures/cat-11.jpg
+    caption: 'Head of a Woman, 350-300 BC, Taranto region. 82.AD.93.7, https://www.getty.edu/art/collection/objects/14437'
+    zoom: true
+
+  - id: 'cat-12'
+    label: 'Cat. 12' 
+    src: figures/cat-12.jpg
+    caption: 'Head of a Woman, 350-300 BC, Taranto region. 82.AD.93.8, https://www.getty.edu/art/collection/objects/14438'
+    zoom: true
+
+  - id: 'cat-13'
+    label: 'Cat. 13' 
+    src: figures/cat-13.jpg
+    caption: 'Head of a Woman, 350-300 BC, Taranto region. 82.AD.93.16, https://www.getty.edu/art/collection/objects/14446'
+    zoom: true
+
+  - id: 'cat-14'
+    label: 'Cat. 14' 
+    src: figures/cat-14.jpg
+    caption: 'Head of a Woman, 350-300 BC, Taranto region. 82.AD.93.14, https://www.getty.edu/art/collection/objects/14444'
+    zoom: true
+
+  - id: 'cat-15'
+    label: 'Cat. 15' 
+    src: figures/cat-15.jpg
+    caption: 'Bust of a Woman, Late fifth-first half of the fourth centuries  BC, Taranto region. 82.AD.93.4, https://www.getty.edu/art/collection/objects/14434'
+    zoom: true
+
+  - id: 'cat-16'
+    label: 'Cat. 16' 
+    src: figures/cat-16.jpg
+    caption: 'Bust of a Woman, 450-350 BC, Taranto region. 82.AD.93.5, https://www.getty.edu/art/collection/objects/14435'
+    zoom: true
+
+  - id: 'cat-17'
+    label: 'Cat. 17' 
+    src: figures/cat-17.jpg
+    caption: 'Bust of a Woman, 400-250 BC, Taranto region. 82.AD.93.10, https://www.getty.edu/art/collection/objects/14440'
+    zoom: true
+
+  - id: 'cat-18'
+    label: 'Cat. 18' 
+    src: figures/cat-18.jpg
+    caption: 'Head of a Youth, 300-250 BC, Taranto region. 82.AD.93.17, https://www.getty.edu/art/collection/objects/14447'
+    zoom: true
+
+  - id: 'cat-19'
+    label: 'Cat. 19' 
+    src: figures/cat-19.jpg
+    caption: 'Head of a Youth, Third-second century  BC, Taranto region. 82.AD.93.6, https://www.getty.edu/art/collection/objects/14436'
+    zoom: true
+
+  - id: 'cat-20'
+    label: 'Cat. 20' 
+    src: figures/cat-20.jpg
+    caption: 'Head of a Youth, 400-350 BC, Taranto region. 82.AD.93.19, https://www.getty.edu/art/collection/objects/14449'
+    zoom: true
+
+  - id: 'cat-21'
+    label: 'Cat. 21' 
+    src: figures/cat-21.jpg
+    caption: 'Bust of a Youth, Late fifth-fourth century  BC, Taranto region. 82.AD.93.15, https://www.getty.edu/art/collection/objects/14445'
+    zoom: true
+
+  - id: 'cat-22'
+    label: 'Cat. 22' 
+    src: figures/cat-22.jpg
+    caption: 'Fragment of a Head, 440-430 BC, Taranto region. 82.AD.93.1, https://www.getty.edu/art/collection/objects/10198'
+    zoom: true
+
+  - id: 'cat-23'
+    label: 'Cat. 23' 
+    src: figures/cat-23.jpg
+    caption: 'Head of a Child, 300-200 BC, Taranto region. 82.AD.93.20, https://www.getty.edu/art/collection/objects/14450'
+    zoom: true
+
+  - id: 'cat-24'
+    label: 'Cat. 24' 
+    src: figures/cat-24.jpg
+    caption: 'Head of a Bearded Man, 300-250 BC, Taranto region. 96.AD.243, https://www.getty.edu/art/collection/objects/103244'
+    zoom: true
+
+  - id: 'cat-25'
+    label: 'Cat. 25' 
+    src: figures/cat-25.jpg
+    caption: 'Statuette of a Woman, 400-250 BC, Taranto region. 78.AD.294.2, https://www.getty.edu/art/collection/objects/8354'
+    zoom: true
+
+  - id: 'cat-26'
+    label: 'Cat. 26' 
+    src: figures/cat-26.jpg
+    caption: 'Plaque with a Woman, Late fourth-third century  BC, Taranto region. 78.AD.294.1, https://www.getty.edu/art/collection/objects/8353'
+    zoom: true
+
+  - id: 'cat-27'
+    label: 'Cat. 27' 
+    src: figures/cat-27.jpg
+    caption: 'Statuette of a Seated Comic Actor, Fourth-third centuries BC, Taranto region. 96.AD.164, https://www.getty.edu/art/collection/objects/29668'
+    zoom: true
+
+  - id: 'cat-28'
+    label: 'Cat. 28' 
+    src: figures/cat-28.jpg
+    caption: 'Statuette of a Seated Old Woman, 400-200 BC, Taranto region. 78.AD.295, https://www.getty.edu/art/collection/objects/8355'
+    zoom: true
+
+  - id: 'cat-29'
+    label: 'Cat. 29' 
+    src: figures/cat-29.jpg
+    caption: 'Statuette of a Mime, 225-175 BC, Taranto region. 96.AD.166, https://www.getty.edu/art/collection/objects/29626'
+    zoom: true
+
+  - id: 'cat-30'
+    label: 'Cat. 30' 
+    src: figures/cat-30.jpg
+    caption: 'Statuette of a Dancer, 400-200 BC, Taranto region. 96.AD.246, https://www.getty.edu/art/collection/objects/103247'
+    zoom: true
+  
+  - id: 'cat-30-360'
+    zoom: true
+    label: 'Cat. 30x'
+    caption: 'Statuette of a Dancer (x-axial view), 400-200 BC, Taranto region. 96.AD.246, https://www.getty.edu/art/collection/objects/103247'
+    sequences:
+      - id: figures/cat-30/
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: right-to-left
+
+  - id: 'cat-31'
+    label: 'Cat. 31' 
+    src: figures/cat-31.jpg
+    caption: 'Comic Mask, 300-200 BC, Taranto region. 96.AD.247, https://www.getty.edu/art/collection/objects/103248'
+    zoom: true
+
+  - id: 'cat-32'
+    label: 'Cat. 32' 
+    src: figures/cat-32.jpg
+    caption: 'Statuette of Eros with a Deer, 325-250 BC, Taranto region. 71.AD.137, https://www.getty.edu/art/collection/objects/6597'
+    zoom: true
+
+  - id: 'cat-33'
+    label: 'Cat. 33' 
+    src: figures/cat-33.jpg
+    caption: 'Statuette of an Amazon, 300-200 BC, Taranto region. 71.AD.138, https://www.getty.edu/art/collection/objects/6598'
+    zoom: true
+  
+  - id: 'cat-33-360'
+    zoom: true
+    label: 'Cat. 33x'
+    caption: 'Statuette of an Amazon (x-axial view), 300-200 BC, Taranto region. 71.AD.138, https://www.getty.edu/art/collection/objects/6598'
+    sequences:
+      - id: figures/cat-33/
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: right-to-left
+
+  - id: 'cat-34'
+    label: 'Cat. 34' 
+    src: figures/cat-34.jpg
+    caption: 'Relief with Two Maenads, 350-300 BC, Taranto region. 71.AD.222, https://www.getty.edu/art/collection/objects/6676'
+    zoom: true
+
+  - id: 'cat-35'
+    label: 'Cat. 35' 
+    src: figures/cat-35.jpg
+    caption: 'Relief with a Fighting Arimasp, 350-300 BC, Taranto region. 71.AD.221, https://www.getty.edu/art/collection/objects/6675'
+    zoom: true
+
+  - id: 'cat-36'
+    label: 'Cat. 36' 
+    src: figures/cat-36.jpg
+    caption: 'Relief with a Bull, 350-300 BC, Taranto region. 71.AD.220, https://www.getty.edu/art/collection/objects/6674'
+    zoom: true
+
+  - id: 'cat-37'
+    label: 'Cat. 37' 
+    src: figures/cat-37.jpg
+    caption: 'Relief with Two Griffins Attacking a Deer, 350-300 BC, Taranto region. 80.AD.39, https://www.getty.edu/art/collection/objects/9188'
+    zoom: true
+
+  - id: 'cat-38'
+    label: 'Cat. 38' 
+    src: figures/cat-38.jpg
+    caption: 'Statue of a Mourning Woman, 300-275 BC, Canosa. 85.AD.76.1, https://www.getty.edu/art/collection/objects/10934'
+    zoom: true
+
+  - id: 'cat-39'
+    label: 'Cat. 39' 
+    src: figures/cat-39.jpg
+    caption: 'Statue of a Mourning Woman, 300-275 BC, Canosa. 85.AD.76.2, https://www.getty.edu/art/collection/objects/10935'
+    zoom: true
+
+  - id: 'cat-40'
+    label: 'Cat. 40' 
+    src: figures/cat-40.jpg
+    caption: 'Statue of a Mourning Woman, 300-275 BC, Canosa. 85.AD.76.3, https://www.getty.edu/art/collection/objects/10936'
+    zoom: true
+  
+  - id: 'cat-40-360'
+    zoom: true
+    label: 'Cat. 40x'
+    caption: 'Statue of a Mourning Woman (x-axial view), 300-275 BC, Canosa. 85.AD.76.3, https://www.getty.edu/art/collection/objects/10936'
+    sequences:
+      - id: figures/cat-40/
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: right-to-left
+
+  - id: 'cat-41'
+    label: 'Cat. 41' 
+    src: figures/cat-41.jpg
+    caption: 'Statue of a Mourning Woman, 300-275 BC, Canosa. 85.AD.76.4, https://www.getty.edu/art/collection/objects/10937'
+    zoom: true
+
+  - id: 'cat-42'
+    label: 'Cat. 42' 
+    src: figures/cat-42.jpg
+    caption: 'Statue of a Mourning Woman, 300-250 BC, Canosa. 79.AD.194, https://www.getty.edu/art/collection/objects/9042'
+    zoom: true
+
+  - id: 'cat-43'
+    label: 'Cat. 43' 
+    src: figures/cat-43.jpg
+    caption: 'Statuette of a Standing Woman, Late fourth-third centuries  BC, Canosa. 81.AD.158, https://www.getty.edu/art/collection/objects/9821'
+    zoom: true
+
+  - id: 'cat-44'
+    label: 'Cat. 44' 
+    src: figures/cat-44.jpg
+    caption: 'Statuette of Apollo, 200-100 BC, Canosa. 96.AD.266, https://www.getty.edu/art/collection/objects/103504'
+    zoom: true
+
+  - id: 'cat-45'
+    label: 'Cat. 45' 
+    src: figures/cat-45.jpg
+    caption: 'Seated Eros A, Late fourth-third centuries BC, Canosa. 96.AD.265.1, https://www.getty.edu/art/collection/objects/103274'
+    zoom: true
+
+  - id: 'cat-46'
+    label: 'Cat. 46' 
+    src: figures/cat-46.jpg
+    caption: 'Seated Eros B, Late fourth-third centuries  BC, Canosa. 96.AD.265.2, https://www.getty.edu/art/collection/objects/103275'
+    zoom: true
+
+  - id: 'cat-47'
+    label: 'Cat. 47' 
+    src: figures/cat-47.jpg
+    caption: 'Pair of Altars with the Myth of Adonis, Late fifth-early fourth century  BC, Medma. 86.AD.598.1 , https://www.getty.edu/art/collection/objects/12834'
+    zoom: true
+
+  - id: 'cat-48'
+    label: 'Cat. 48' 
+    src: figures/cat-48.jpg
+    caption: 'Pair of Altars with the Myth of Adonis, Late fifth-early fourth century  BC, Medma. 86.AD.598.2, https://www.getty.edu/art/collection/objects/12835'
+    zoom: true
+
+  - id: 'cat-49'
+    label: 'Cat. 49' 
+    src: figures/cat-49.jpg
+    caption: 'Altar with Animals, 350-300 BC, South Italy. 71.AD.148, https://www.getty.edu/art/collection/objects/6608'
+    zoom: true
+
+  - id: 'cat-50'
+    label: 'Cat. 50' 
+    src: figures/cat-50.jpg
+    caption: 'Miniature Altar with Animal Combat, Late sixth-early fifth centuries BC, South Italy. 77.AD.122, https://www.getty.edu/art/collection/objects/8121'
+    zoom: true
+
+  - id: 'cat-51'
+    label: 'Cat. 51' 
+    src: figures/cat-51.jpg
+    caption: 'Head of a Woman, 350-300 BC, Sicily . 76.AD.34, https://www.getty.edu/art/collection/objects/7319'
+    zoom: true
+  
+  - id: 'cat-51-360'
+    zoom: true
+    label: 'Cat. 51x'
+    caption: 'Head of a Woman (x-axial view), 350-300 BC, Sicily . 76.AD.34, https://www.getty.edu/art/collection/objects/7319'
+    sequences:
+      - id: figures/cat-51/
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: right-to-left
+
+  - id: 'cat-52'
+    label: 'Cat. 52' 
+    src: figures/cat-52.jpg
+    caption: 'Relief with Orestes and Clytemnestra, 550-525 BC, Sicily. 81.AD.12, https://www.getty.edu/art/collection/objects/9386'
+    zoom: true
+
+  - id: 'cat-53'
+    label: 'Cat. 53' 
+    src: figures/cat-53.jpg
+    caption: 'Thymiaterion Supported by a Statuette of Nike, 500-475 BC, Sicily. 86.AD.681, https://www.getty.edu/art/collection/objects/12838'
+    zoom: true
+
+  - id: 'cat-54'
+    label: 'Cat. 54' 
+    src: figures/cat-54.jpg
+    caption: 'Statuette of Odysseus under a Ram, 525-500 BC, Sicily. 79.AD.37, https://www.getty.edu/art/collection/objects/8571'
+    zoom: true
+
+  - id: 'cat-55'
+    label: 'Cat. 55' 
+    src: figures/cat-55.jpg
+    caption: 'Statuette of a Woman with a Kithara, Late third-early second centuries  BC, Sicily. 73.AD.151, https://www.getty.edu/art/collection/objects/7134'
+    zoom: true
+
+  - id: 'cat-56'
+    label: 'Cat. 56' 
+    src: figures/cat-56.jpg
+    caption: 'Statuette of Aphrodite, Third century BC, Sicily. 71.AD.131, https://www.getty.edu/art/collection/objects/6591'
+    zoom: true
+
+  - id: 'cat-57'
+    label: 'Cat. 57' 
+    src: figures/cat-57.jpg
+    caption: 'Statuette of Eros, Second century BC, Sicily. 71.AD.130, https://www.getty.edu/art/collection/objects/6590'
+    zoom: true
+
+  - id: 'cat-58'
+    label: 'Cat. 58' 
+    src: figures/cat-58.jpg
+    caption: 'Mask of a Satyr, 200-100 BC, Sicily. 96.AD.305, https://www.getty.edu/art/collection/objects/32043'
+    zoom: true
+
+  - id: 'cat-59'
+    label: 'Cat. 59' 
+    src: figures/cat-59.jpg
+    caption: 'Clipeus with the Head of Medusa, Third-second centuries  BC, Sicily. 71.AD.255, https://www.getty.edu/art/collection/objects/6709'
+    zoom: true
+
+  - id: 'cat-60'
+    label: 'Cat. 60' 
+    src: figures/cat-60.jpg
+    caption: 'Head of Hades, 400-300 BC, Sicily . 85.AD.105, https://www.getty.edu/art/collection/objects/10951'
+    zoom: true
+
+  - id: "fig-031"
+    src: "figures/031/base.jpg"
+    zoom: true
+    label: "Figure 31"
+    caption: "Radiographic detail of the torso of Apollo clearly shows a wax-to-wax joint as a dark ellipse at the junction of the arm to the shoulder (blue). See also the complex armature and notably the transverse rods (orange) going through the main armature rods (red). *Apollo and Daphne*, probably France, early 18th century, H. 85 cm (Musée Fabre, Montpellier, France, inv. 836.4.86). See C2RMF Internal Report #37090, 2018."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/031/wax-joint.png"
+            label: "Wax-to-Wax Joint"
+            selected: true
+          - src: "figures/031/traverse-rods.png"
+            label: "Traverse Rods"
+            selected: true
+          - src: "figures/031/main-armature.png"
+            label: "Main Armature"
+            selected: true
+          - src: "figures/031/armature-b.png"
+            label: "Armature B [?]"
+            selected: true
+          - src: "figures/031/armature-c.png"
+            label: "Armature C [?]"
+            selected: true
+
+  - id: "fig-032"
+    src: "figures/032/base.jpg"
+    zoom: true
+    label: "Figure 32"
+    caption: "X-radiograph showing a complex armature made of different sizes of rods and wire (11 mm, 7 mm, and 4 mm in diameter). See also the wax-to-wax joints. A 15 mm Cu filter was needed to keep the same exposure parameters for all the different areas of the sculpture, despite the significant variations in thickness (400kV, 8mA, 15 min. exposure, 3 m source-to-object distance, AA400PB film). Antoine-Louis Barye (French, 1795–1875), *Theseus and the Centaur Bienor*, cast by Eugène Gonon (1814–1892) in 1877, H. 1.3 m (Musée du Louvre, inv. RF 3882). For daylight photography of the statue see [fig. 395](/visual-atlas/#fig-395){target=_blank}. See C2RMF Internal Report 2016b."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/032/armature.png"
+            label: "Armature"
+            selected: true
+          - src: "figures/032/wax-joints.png"
+            label: "Wax-to-Wax Joints"
+            selected: true
+
+  - id: "fig-034"
+    zoom: true
+    label: "Figure 34"
+    caption: "Overlay of interpretive technical diagram and both X-radiograph and daylight photography showing the wire wrapping the core. Note how complex the image is due to the numerous overlaps, for instance of the drapery. Barthélemy Prieur (French, ca. 1536–1611), *Abundance*, cast in 1571 by Nicolas Péron, H. 128 cm (Musée du Louvre, inv. MR1681). See [Case Study 5](#CaseStudy5)."
+    annotations:
+      - input: radio
+        items:
+          - id: "x-ray"
+            src: "figures/034/x-ray.jpg"
+            label: "X-Ray"
+          - id: "daylight"
+            src: "figures/034/daylight.jpg"
+            label: "Daylight"   
+          - id: "armature"
+            src: "figures/034/armature.jpg"
+            label: "Armature"
+
+  - id: "fig-035"
+    src: "figures/035/base.jpg"
+    zoom: true
+    label: "Figure 35"
+    caption: "Detail of an annotated digital X-radiograph showing transverse core pins in both thighs (yellow overlays), one running side to side, the other front to back. A circular plug (green overlay) and rectangular surface patch (blue overlay) repair the holes left in the bronze wall when the front-to-back core pins were cut off at the surface and pushed into the hollow bronze cavity. Giovanni Battista Foggini (Italian, 1652–1725), *Dancing Faun*, ca. 1700, H. 54 cm (J. Paul Getty Museum, inv. 2000.8)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/035/patch.png"
+            label: "Patch"
+            selected: true
+          - src: "figures/035/plug.png"
+            label: "Plug"
+            selected: true
+          - src: "figures/035/core-pins.png"
+            label: "Core Pins"
+            selected: true
+
+  - id: "fig-037"
+    src: "figures/037/base.jpg"
+    zoom: true
+    label: "Figure 37"
+    caption: "X-radiographs showing the influence of lead intensifying screens placed directly in front of and behind the film. Without lead screens (left), the contrast is low. On the right, the addition of the lead reinforcing screens (MX125PB film) reveals technical features, including core pins (some marked with red overlays). Operating conditions for both images are: 260kV, 4mA, 8 min. exposure, 2.5 m source-to-object distance, 2.6 mm Cu beam filtering. Candlestick representing Samson and the Lion, Lower Saxony, ca. 1175–1225, H. 22 cm (Musée départemental des antiquités de Rouen, France, inv. R.91.23). See C2RMF Internal Report 2015b."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/037/core-pins.png"
+            label: "Core Pins"
+            selected: true
+
+  - id: "fig-042"
+    src: "figures/042/base.jpg"
+    zoom: true
+    label: "Figure 42"
+    caption: "Annotated detail of an X-radiograph showing core support rods (yellow overlay) supporting a wax-to-wax joint in the arm (blue overlay). Giovanni Battista Foggini (Italian, 1652–1725), *Dancing Faun*, ca. 1700, H. 54 cm (J. Paul Getty Museum, inv. 2000.8). See Fogelman and Fusco 2002, 238, 357."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/042/core-supports.png"
+            label: "Core Supports"
+            selected: true
+          - src: "figures/042/wax-joint.png"
+            label: "Wax-to-Wax Joint"
+            selected: true
+
+  - id: "fig-043"
+    src: "figures/043/base.jpg"
+    zoom: true
+    label: "Figure 43"
+    caption: "Annotated X-radiograph of a sand cast. Both Dejanira’s and Hercules’s heads were cast separately and secured at the neck with Roman joints (yellow overlay). Roman joints also secure Dejanira’s proper right arm as well as Hercules’s proper left arm. There is an internal seam line in Dejanira’s left shoulder where the separately formed core in the arm abuts the core used in the torso (blue line). Lanterns can be seen in the torso and the proper left arm (red overlays). Charles Crozatier (French, 1795–155), *Hercules Freeing Dejanira from the Centaur Nessus*, Paris 19th century, after Adriaen de Vries (Netherlandish, 1556–1626), H. 78.5 cm (Rijksmuseum, Amsterdam, inv. BK-1957-2)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/043/lanterns.png"
+            label: "Lanterns"
+            selected: true
+          - src: "figures/043/heads.png"
+            label: "Heads"
+            selected: true
+          - src: "figures/043/seam-line.png"
+            label: "Seam Line"
+            selected: true
+
+  - id: "fig-063"
+    src: "figures/063/base.jpg"
+    zoom: true
+    label: "Figure 63"
+    caption: "X-radiograph showing a wax-to-wax joint on the right arm (red dotted line), as revealed by the discontinuity in the metal wall thickness (blue overlay). Note that making precise measurements of wall thickness from radiographs may be difficult, as the external edge may not be visible if overexposed (yellow line). As a consequence, the metal wall thickness may be up to 30% greater than that inferred from the radiograph (blue overlay). After Giambologna (Netherlandish, 1524–1608), *Hercules*, ca. 1580, cast in Italy, Germany, or the Netherlands, 17th century or later, H. 43 cm (Musée des Beaux-Arts d’Angers, France, inv. 2003-1-180). See C2RMF Internal Report 2018b."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/063/wax-joint.png"
+            label: "Wax-to-Wax Joint"
+            selected: true
+          - src: "figures/063/wall-thickness.png"
+            label: "Wall Thickness"
+            selected: true
+          - src: "figures/063/external-edge.png"
+            label: "External Edge"
+            selected: true
+
+  - id: "fig-064"
+    src: "figures/064/base.jpg"
+    zoom: true
+    label: "Figure 64"
+    caption: "Annotated X-radiograph showing numerous small circular holes (red dots) testifying to the use of transverse core pins passing through the horse’s body from one side to the other. See also the long wax joint running the length of the horse (green lines). *Horse and Rider*, Italian, 16th century, H. 33 cm (Musée des Beaux-Arts d’Angers, France, inv. 2003-1-182). See C2RMF Internal Report 2018b."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/064/wax-joints.png"
+            label: "Wax-to-Wax Joints"
+            selected: true
+          - src: "figures/064/core-pin-holes.png"
+            label: "Core Pin Holes"
+            selected: true
+
+  - id: "fig-079"
+    src: "figures/079/base.jpg"
+    zoom: true
+    label: "Figure 79"
+    caption: "Annotated composite X-radiograph. Note in particular the continuous armature that extends throughout the direct lost-wax cast. Adriaen de Vries (Netherlandish, 1556–1626), *Juggling Man*, ca. 1615, H. 76.8 cm (J. Paul Getty Museum, inv. 90.SB.44)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/079/armature.png"
+            label: "Armature"
+            selected: true
+
+  - id: "fig-090"
+    src: "figures/090/base.jpg"
+    zoom: true
+    label: "Figure 90"
+    caption: "Annotated X-radiograph showing the very thin and even metal walls (1–2 mm, red arrows). See also the large core flashing at the level of the belly (white feature shown by the green arrow). *Maitreya*, Khmer, pre-Angkor, 8th century, H. 46 cm (Musée national des arts asiatiques – Guimet, Paris, inv. MA 3321). See Bourgarit et al. 2003."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/090/walls.png"
+            label: "Walls"
+            selected: true
+          - src: "figures/090/core-flashing.png"
+            label: "Core Flashing"
+            selected: true
+
+  - id: "fig-091"
+    src: "figures/091/base.jpg"
+    zoom: true
+    label: "Figure 91"
+    caption: "X-radiograph showing the very thin and even metal walls (2 mm). Bronze Statue of Hawtar’athat, Yemen, 1st millennium BCE, H. 140 cm (National Museum of Sana’a, Yemen, inv. YM 23206). See Mille et al. 2010."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/091/wall-thickness.png"
+            label: "Wall Thickness"
+            selected: true
+
+  - id: "fig-092"
+    src: "figures/092/base.jpg"
+    zoom: true
+    label: "Figure 92"
+    caption: "X-radiograph of the forearm of a monumental Roman statue cast by the lost-wax process. The long, dark, linear area corresponds to a thinning in the original wax model where wax slabs were not joined all the way through. The area would have been filled with core material and the imperfection was thus translated into bronze. *Arm of Essegney*, Roman, Essegney, France, probably 2nd–3rd century CE, L. from hand to elbow 43 cm (Musée départemental d’art ancien et contemporain d’Epinal, France, inv. M0536_2005.2.1). See Caumont et al. 2006."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/092/seam-line.png"
+            label: "Seam Line"
+            selected: true
+
+  - id: "fig-097"
+    zoom: true
+    label: "Figure 97"
+    caption: "Overlay of interpretive technical diagram and both X-radiograph and daylight photography. Martin Lefort (French, dates unknown), *Justice*, 1571, H. 128 cm (Musée du Louvre, inv. MR1682). See [Case Study 5](#CaseStudy5)."
+    annotations:
+      - input: radio
+        items:
+          - id: "x-ray"
+            src: "figures/097/x-ray.jpg"
+            label: "X-Ray"
+          - id: "daylight"
+            src: "figures/097/daylight.jpg"
+            label: "Daylight"   
+          - id: "armature"
+            src: "figures/097/armature.jpg"
+            label: "Armature"
+
+  - id: "fig-120"
+    src: "figures/120/base.jpg"
+    zoom: true
+    label: "Figure 120"
+    caption: "Annotated X-radiograph shows the core pins under the shoulders (teal overlays). *Spinario*, northern Italy (Padova?), first quarter of the 16th century, H. 15.5 cm (Musée des Beaux-Arts d’Angers, France, inv. 2003.1.188). See C2RMF Internal Report 2018b."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/120/core-pins.png"
+            label: "Core Pins"
+            selected: true
+
+  - id: "fig-127"
+    src: "figures/127/base.jpg"
+    zoom: true
+    label: "Figure 127"
+    caption: "Annotated X-radiograph. Porosity at the bottom may indicate that the sculpture was cast upside down (blue overlay). Note also the Roman joints (red lines). *White Tara*, Tibet, 17th century, H. 65 cm without base (Musée national des arts asiatiques – Guimet, Paris, inv. MA 12495). See C2RMF Internal Report 2012."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/127/porosity.png"
+            label: "Porosity"
+            selected: true
+          - src: "figures/127/roman-joints.png"
+            label: "Roman Joints"
+            selected: true
+
+  - id: "fig-152"
+    src: "figures/152/base.jpg"
+    zoom: true
+    label: "Figure 152"
+    caption: "Annotated X-radiograph revealing extensive porosity. A large casting defect that extends partway through the surface of the figure’s proper left leg has been repaired with a set-in patch (yellow overlay). In many areas, porosity is contained within the wall (some are indicated in green). Detail of fig. 170, Jean-Antoine Houdon (French, 1741–1828), *Diana*, 1782, H. 208.3 cm (Huntington Art Museum, San Marino, California, inv. 27.186). See Bassett and Scherf 2014; Bennett and Sargentson 2008, 492–93. See [fig.170](/visual-atlas/#fig-170){target=_blank} for an overall view."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/152/porosity.png"
+            label: "Porosity"
+            selected: true
+          - src: "figures/152/patch.png"
+            label: "Patch"
+            selected: true
+
+  - id: "fig-155"
+    src: "figures/155/base.jpg"
+    zoom: true
+    label: "Figure 155"
+    caption: "Annotated X-radiograph reveals shrinkage porosity in the stomach and proper right hip (circled). Adriaen de Vries (Netherlandish, 1556–1626), *Psyche Borne Aloft by Putti*, 1590–92, H. 187 cm (Nationalmuseum, Stockholm, inv. NM Sk352)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/155/shrinkage-porosity.png"
+            label: "Shrinkage Porosity"
+            selected: true
+
+  - id: "fig-187"
+    src: "figures/187/base.jpg"
+    zoom: true
+    label: "Figure 187"
+    caption: "Annotated detail of an X-radiograph of the higher-density lead-based soldering metal that surrounds the set-in patch on the nymph’s right arm (arrows). Antonio Susini (Italian 1558–1624), *Faun and Nymph*, 1580–90, H. faun 48.2 cm, H. nymph 34.6 cm (Staatliche Kunstsammlungen, Grünes Gewölbe, Dresden, inv. IX 36). See Bassett 2008, 284."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/187/solder.png"
+            selected: true
+
+  - id: "fig-191"
+    zoom: true
+    label: "Figure 191"
+    caption: "Some restorations made of organic materials (here likely made of a type of resin) fluoresce under ultraviolet illumination. *The Worshipper of Larsa*, Mesopotamia, 18th century BCE, H. 19.6 cm (Musée du Louvre, inv. AO15704). Views in daylight and ultraviolet light. See C2RMF Internal Report 2008b."
+    annotations:
+      - input: radio
+        items:
+          - src: "figures/191/uv.jpg"
+            label: "Ultraviolet"
+          - src: "figures/191/daylight.jpg"
+            label: "Daylight"
+
+  - id: "fig-194"
+    src: "figures/194/base.jpg"
+    zoom: true
+    label: "Figure 194"
+    caption: "Comparison of X-radiography (left) and gamma radiography (right) of a monumental bronze finger—a fragment of the monumental statue of Emperor Constantin held at the Capitoline Museum. The polygonal patch repairs are highlighted in red. The operating conditions for gamma radiography were: ~2 mm <sup>192</sup>Ir 30Ci (1,1 TBq) source, 1 m source/object distance, 20 min. exposure, ERLM Dürr NDT H CR plate (resolution 50 µm), 0.1 mm Pb filtering before and after detector. Monumental bronze finger, Rome, ca. 330 CE, H. 38 cm (Musée du Louvre, inv. Br78). See [fig. 172](/visual-atlas/#fig-172){target=_blank} for an overall view. See Azéma, Descamps-Lequime, and Mille 2018."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/194/patches.png"
+            label: "Patches"
+            selected: true
+
+  - id: "fig-195"
+    src: "figures/195/base.jpg"
+    zoom: true
+    label: "Figure 195"
+    caption: "Annotated X-radiograph showing internal features of a sand cast: threaded repair plugs (blue overlay), core vents (yellow overlay), core support (orange overlay), and nuts that secure the horse to the base (green overlay). Charles Marion Russell (American, 1864–1926), *Medicine Whip*, modeled 1911, sand cast 1912–16, H. 14.8 cm (Gilcrease Museum, Tulsa, 0837.14)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/195/threaded-repair-plugs.png"
+            label: "Treaded Repair Plugs"
+            selected: true
+          - src: "figures/195/core-vents.png"
+            label: "Core Vents"
+            selected: true
+          - src: "figures/195/core-support.png"
+            label: "Core Support"
+            selected: true
+          - src: "figures/195/nuts.png"
+            label: "Nuts"
+            selected: true
+
+  - id: "fig-196"
+    src: "figures/196/base.jpg"
+    zoom: true
+    label: "Figure 196"
+    caption: "Annotated detail of an X-radiograph showing a cast-on repair in the seated figure’s right knee that shrank as it cooled, revealing the distinctive gap between the original wall of the bronze and the later cast-in metal. Francesco Bertos (Italian, 1678–1741), *Group of Eleven Figures (Allegory of Autumn)*, ca. 1725, H. 79.5 cm (J. Paul Getty Museum, inv. 85.SB.74)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/196/cast-on-repair.png"
+            label: "Cast-On Repair"
+            selected: true
+
+  - id: "fig-197"
+    src: "figures/197/base.jpg"
+    zoom: true
+    label: "Figure 197"
+    caption: "Threaded plugs are visible in the X-radiograph throughout the torso and in the raised proper left bicep (some marked with blue arrows). Attributed to Gian Lorenzo Bernini (Italian, 1598–1680), *Neptune and Dolphin*, 17th century (probably after 1623), H. 56 cm (J. Paul Getty Museum, inv. 94.SB.45)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/197/threaded-plugs.png"
+            label: "Threaded Plugs"
+            selected: true
+
+  - id: "fig-198"
+    src: "figures/198/base.jpg"
+    zoom: true
+    label: "Figure 198"
+    caption: "Annotated digital X-radiograph of a single-walled shield showing extensive small surface patches (one example indicated with a yellow arrow) and a small number of threaded plugs (one indicated with a red arrow). Ferdinando Tacca (Italian, 1619–1686), *Putto Holding a Shield*, Florence, ca. 1650–55, H. 64.5 cm (J. Paul Getty Museum, inv. 85.SB.70). See Fogelman and Fusco 2002, 217."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/198/patch.png"
+            label: "Patch"
+            selected: true
+          - src: "figures/198/threaded-plug.png"
+            label: "Threaded Plug"
+            selected: true
+
+  - id: "fig-199"
+    src: "figures/199/base.jpg"
+    zoom: true
+    label: "Figure 199"
+    caption: "Detail of X-radiograph revealing an internal metal cylinder added during restoration to join the body and tail. Lynx Incense Burner, Iran (Khorasan province), ca. 12th century, H. 28.5 cm (Musée du Louvre, inv. AA 19). See Collinet 2021."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/199/repair-insert.png"
+            label: "Repair Insert"
+            selected: true
+
+  - id: "fig-215"
+    src: "figures/215/base.jpg"
+    zoom: true
+    label: "Figure 215"
+    caption: "Annotated X-radiograph of Prajnaparamita and Lokeshvara showing the solid ring-shaped tangs cast with the statuettes to attach the figures to their base (arrows). Khmer Buddhist Triad, late 12th–early 13th century, H. 49.5 cm (National Museum of Cambodia, inv. Ga 2424). See Bourgarit et al. 2003."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/215/tangs.png"
+            label: "Tangs"
+            selected: true
+
+  - id: "fig-367"
+    src: "figures/367/base.jpg"
+    zoom: true
+    label: "Figure 367"
+    caption: "Annotated X-radiograph showing technical features observed on the front surface. Click on the legend to reveal or mask the different overlays (refer to [fig. 467](/visual-atlas/#fig-467){target=_blank} for mapping of evidence visible on the reverse). *Great Dolphins of Vienne*, Roman period, Vienne, France, 2nd century CE., max L. 260 cm (Musée des Beaux-Arts et d’Archéologie de Vienne, France, inv. R.1998.2.43)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/367/wax.png"
+            label: "Wax segments"
+          - src: "figures/367/borders.png"
+            label: "Section borders (casting plan)"
+          - src: "figures/367/lost-patches.png"
+            label: "Lost patches"
+          - src: "figures/367/patches.png"
+            label: "Patches"
+          - src: "figures/367/rivets.png"
+            label: "Rievts"
+          - src: "figures/367/core-pins.png"
+            label: "Core pins"
+          - src: "figures/367/outline.png"
+            label: "Outline"
+            selected: true
+
+  - id: "fig-401"
+    src: "figures/401/base.jpg"
+    zoom: true
+    label: "Figure 401"
+    caption: "Annotated neutron radiograph of frontal view, showing more clearly than the X-radiograph ([fig. 400](/visual-atlas/#fig-400){target=_blank}) the contours of the sealing material (red overlay) and some of the consecration offerings (purple, red, and green overlays). For an even better visualization of the consecration offerings (in another statuette), refer to the tomographic images in [figs. 403](/visual-atlas/#fig-403){target=_blank}, [404](/visual-atlas/#fig-404){target=_blank}. Kubera/Jambhala, Java, first half of the 10th century, H. 18 cm (Musée national des arts asiatiques – Guimet, Paris, inv. MG 3625). See Mechling et al. 2018."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/401/sealing-material.png"
+            label: "Sealing Material"
+            selected: true
+          - src: "figures/401/consecration-offerings.png"
+            label: "Consecration Offerings"
+            selected: true
+
+  - id: "fig-467"
+    src: "figures/467/base.jpg"
+    zoom: true
+    label: "Figure 467"
+    caption: "Annotated X-radiograph showing the technical features observed on the reverse. Click on the legend to reveal or mask the different overlays (see [fig. 367](/visual-atlas/#fig-367){target=_blank} for mapping of evidence visible on the front). *Great Dolphins of Vienne*, Roman period, Vienne, France, 2nd century CE, max L. 260 cm (Musée des Beaux-Arts et d’Archéologie de Vienne, France, inv. R.1998.2.43)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/467/wax.png"
+            label: "Wax segments"
+          - src: "figures/467/wax-joints.png"
+            label: "Wax-to-wax joints"
+          - src: "figures/467/wax-elements.png"
+            label: "Elements modeled in wax"
+          - src: "figures/467/borders.png"
+            label: "Section borders (casting plan)"
+          - src: "figures/467/flashing.png"
+            label: "Flashing"
+          - src: "figures/467/cast-on-repairs.png"
+            label: "Cast-on repairs"
+          - src: "figures/467/welding-overflow.png"
+            label: "Overflow of welding material"
+          - src: "figures/467/welding-joints.png"
+            label: "Flow-fusion-welded joints"
+          - src: "figures/467/welding-joints-accumulation.png"
+            label: "Flow-fusion-welded joints, with metal accumulation"
+          - src: "figures/467/feeding-basins.png"
+            label: "Feeding basins for welded joints"
+          - src: "figures/467/lost-patches.png"
+            label: "Lost patches"
+          - src: "figures/467/patches.png"
+            label: "Patches"
+          - src: "figures/467/rivets.png"
+            label: "Rivets"
+          - src: "figures/467/core-pins.png"
+            label: "Core pins"
+          - src: "figures/467/outline.png"
+            label: "Outline"
+
+  - id: "fig-478"
+    src: "figures/478/base.jpg"
+    zoom: true
+    label: "Figure 478"
+    caption: "Radiograph confirming the use of an even layer of wax to form the lion’s body and mane, as well as the location of the circular core plugs. *Aquamanile in the Form of a Lion*, Nuremberg, Germany, ca. 1400, H. 31.9 cm (Metropolitan Museum of Art, The Cloisters Collection, 1994, inv. 1994.244)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/478/plugs.png"
+            label: "Plugs"
+            selected: true
+
+  - id: "fig-515"
+    src: "figures/515/base.jpg"
+    zoom: true
+    label: "Figure 515"
+    caption: "X-radiograph of side view. *Kubera/Jambhala*, Java, first half of the 10th century, H. 18 cm (Musée national des arts asiatiques – Guimet, Paris, inv. MG 3625). See Mechling et al. 2018."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/515/sealing-material.png"
+            label: "Sealing Material"
+            selected: true
+
+  - id: "fig-516"
+    src: "figures/516/base.jpg"
+    zoom: true
+    label: "Figure 516"
+    caption: "Annotated neutron radiograph of side view, showing more clearly than the X-radiograph ([fig. 515](/visual-atlas/#fig-515){target=_blank}) the contours of the sealing material (red overlay) and some of the consecration offerings. For an even better visualization of the consecration offerings, see tomographic images of a related figure ([figs. 403](/visual-atlas/#fig-403){target=_blank}, [404](/visual-atlas/#fig-404){target=_blank}). *Kubera/Jambhala*, Java, first half of the 10th century, H. 18 cm (Musée national des arts asiatiques – Guimet, Paris, inv. MG 3625). See Mechling et al. 2018."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/516/sealing-material.png"
+            label: "Sealing Material"
+            selected: true
+
+  - id: "fig-524"
+    zoom: true
+    label: "Figure 524"
+    caption: "Overlay of interpretive technical diagram and both X-radiograph and daylight photography. Barthélemy Prieur (French, ca. 1536–1611), *Peace*, cast in 1571 by Nicolas Péron, H. 128 cm (Musée du Louvre, inv. MR1683). See [Case Study 5](#CaseStudy5)."
+    annotations:
+      - input: radio
+        items:
+          - id: "x-ray"
+            src: "figures/524/x-ray.jpg"
+            label: "X-Ray"
+          - id: "daylight"
+            src: "figures/524/daylight.jpg"
+            label: "Daylight"      
+          - id: "armature"
+            src: "figures/524/armature.jpg"
+            label: "Armature"
+
+  - id: "fig-545"
+    src: "figures/545/base.jpg"
+    zoom: true
+    label: "Figure 545"
+    caption: "Annotated X-radiograph showing the flashing that formed along the juncture between different core materials—ceramic shell (in the muzzle) and plaster/clay mixture—as a white line of uneven density halfway up the horse’s head (yellow arrows). An internal core support wire was inserted to connect the two core sections (red line). A line around the neck (green line) corresponds to TIG welding to join two separately cast parts. Remnants of sprues appear as denser patches (blue overlays). Note that the use of beam limiting shutters (used to reduce X-ray scatter, see [II.3](#II.3)) have caused underexposure of the lower quarter and the right edge of the radiograph. Andrew Lacey (British, b. 1969), *The Anatomy of Bronze*, cast by the artist in 2019, Devon, UK, H. 45 cm (artist’s collection)."
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/545/core-support-wire.png"
+            label: "Core Support Wire"
+            selected: true
+          - src: "figures/545/weld-line.png"
+            label: "Weld Line"
+            selected: true
+          - src: "figures/545/sprue-remnants.png"
+            label: "Sprue Remnants"
+            selected: true
+          - src: "figures/545/flashing.png"
+            label: "Flashing"
+            selected: true
+
+  - id: "table-03"
+    src: "tables/table-3.html"
+    media_type: table
+
+  - id: "table-04"
+    src: "tables/table-4.html"
+    media_type: table
+
+  - id: "table-06"
+    src: "tables/table-6.html"
+    media_type: table
+
+  - id: "vid-04"
+    poster: "figures/video-04.png"
+    media_type: vimeo
+    media_id: 672851374/1d4ca42c8b
+    label: "Video 4"
+    caption: "Fabrication of the clay-based core in preparation for direct lost-wax casting. Ubaldo Vitali (American, b. 1944), Reproduction of a Lion Aquamanile, Maplewood, New Jersey, 2006, H. 19 cm, after *Aquamanile in the Form of a Lion*, probably northern Germany, 12th century, H. 19.5 cm (Metropolitan Museum of Art, gift of Irwin Untermyer, 1964, inv. 64.101.1491)."
+
+  - id: "vid-05"
+    poster: "figures/video-05.png"
+    media_type: vimeo
+    media_id: 672851443/c5ac6ba826
+    label: "Video 5"
+    caption: "Two methods of applying wax to a pre-made core include dipping the core in liquid wax and applying wax slabs. Parts such as scales, tail, and handle are added by welding the wax joints with heat. Ubaldo Vitali (American, b. 1944), Reproduction of a Lion Aquamanile, Maplewood, New Jersey, 2006, H. 19 cm, after *Aquamanile in the Form of a Lion*, probably northern Germany, 12th century, H. 19.5 cm (Metropolitan Museum of Art, gift of Irwin Untermyer, 1964, inv. 64.101.1491)."
+
+  - id: "vid-07"
+    poster: "figures/video-07.png"
+    media_type: vimeo
+    media_id: 672851502/f356f17315
+    label: "Video 7"
+    caption: "Short demonstration of slush molding wax into a plaster piece mold by Andrew Lacey (British, b. 1969), filmed as part of “Experimental Reconstruction of the Rothschild Bronzes,” 2016, Devon, UK. 2020 Sîan Lewis and Andrew Lacey"
+
+  - id: "vid-08"
+    poster: "figures/video-08.png"
+    media_type: vimeo
+    media_id: 672851620/a15f318198
+    label: "Video 8"
+    caption: "Applying solid wax sprues and a pouring cup to the completed wax model. Vents that allow gases to escape from the mold are in blue. Ubaldo Vitali (American, b. 1944), Reproduction of a Lion Aquamanile, Maplewood, New Jersey, 2006, H. 19 cm, after *Aquamanile in the Form of a Lion*, probably northern Germany, 12th century, H. 19.5 cm (Metropolitan Museum of Art, gift of Irwin Untermyer, 1964, inv. 64.101.1491."
+
+  - id: 'lamp-1'
+    src: figures/lamps/1.jpg
+    label: '1'
+    zoom: 'true'
+
+  - id: 'lamp-2'
+    src: figures/lamps/2.jpg
+    label: '2'
+    zoom: 'true'
+
+  - id: 'lamp-3'
+    src: figures/lamps/3.jpg
+    label: '3'
+    zoom: 'true'
+
+  - id: 'lamp-4'
+    src: figures/lamps/4.jpg
+    label: '4'
+    zoom: 'true'
+
+  - id: 'lamp-5'
+    src: figures/lamps/5.jpg
+    label: '5'
+    zoom: 'true'
+
+  - id: 'lamp-6'
+    src: figures/lamps/6.jpg
+    label: '6'
+    zoom: 'true'
+
+  - id: 'lamp-7'
+    src: figures/lamps/7.jpg
+    label: '7'
+    zoom: 'true'
+
+  - id: 'lamp-8'
+    src: figures/lamps/8.jpg
+    label: '8'
+    zoom: 'true'
+
+  - id: 'lamp-9'
+    src: figures/lamps/9.jpg
+    label: '9'
+    zoom: 'true'
+
+  - id: 'lamp-10'
+    src: figures/lamps/10.jpg
+    label: '10'
+    zoom: 'true'
+
+  - id: 'lamp-11'
+    src: figures/lamps/11.jpg
+    label: '11'
+    zoom: 'true'
+
+  - id: 'lamp-12'
+    src: figures/lamps/12.jpg
+    label: '12'
+    zoom: 'true'
+
+  - id: 'lamp-13'
+    src: figures/lamps/13.jpg
+    label: '13'
+    zoom: 'true'
+
+  - id: 'lamp-14'
+    src: figures/lamps/14.jpg
+    label: '14'
+    zoom: 'true'
+
+  - id: 'lamp-15'
+    src: figures/lamps/15.jpg
+    label: '15'
+    zoom: 'true'
+
+  - id: 'lamp-16'
+    src: figures/lamps/16.jpg
+    label: '16'
+    zoom: 'true'
+
+  - id: 'lamp-17'
+    src: figures/lamps/17.jpg
+    label: '17'
+    zoom: 'true'
+
+  - id: 'lamp-18'
+    src: figures/lamps/18.jpg
+    label: '18'
+    zoom: 'true'
+
+  - id: 'lamp-19'
+    src: figures/lamps/19.jpg
+    label: '19'
+    zoom: 'true'
+
+  - id: 'lamp-20'
+    src: figures/lamps/20.jpg
+    label: '20'
+    zoom: 'true'
+
+  - id: 'lamp-21'
+    src: figures/lamps/21.jpg
+    label: '21'
+    zoom: 'true'
+
+  - id: 'lamp-22'
+    src: figures/lamps/22.jpg
+    label: '22'
+    zoom: 'true'
+
+  - id: 'lamp-23'
+    src: figures/lamps/23.jpg
+    label: '23'
+    zoom: 'true'
+
+  - id: 'lamp-24'
+    src: figures/lamps/24.jpg
+    label: '24'
+    zoom: 'true'
+
+  - id: 'lamp-25'
+    src: figures/lamps/25.jpg
+    label: '25'
+    zoom: 'true'
+
+  - id: 'lamp-26'
+    src: figures/lamps/26.jpg
+    label: '26'
+    zoom: 'true'
+
+  - id: 'lamp-27'
+    src: figures/lamps/27.jpg
+    label: '27'
+    zoom: 'true'
+
+  - id: 'lamp-28'
+    src: figures/lamps/28.jpg
+    label: '28'
+    zoom: 'true'
+
+  - id: 'lamp-29'
+    src: figures/lamps/29.jpg
+    label: '29'
+    zoom: 'true'
+
+  - id: 'lamp-30'
+    src: figures/lamps/30.jpg
+    label: '30'
+    zoom: 'true'
+
+  - id: 'lamp-31'
+    src: figures/lamps/31.jpg
+    label: '31'
+    zoom: 'true'
+
+  - id: 'lamp-32'
+    src: figures/lamps/32.jpg
+    label: '32'
+    zoom: 'true'
+
+  - id: 'lamp-33'
+    src: figures/lamps/33.jpg
+    label: '33'
+    zoom: 'true'
+
+  - id: 'lamp-34'
+    src: figures/lamps/34.jpg
+    label: '34'
+    zoom: 'true'
+
+  - id: 'lamp-35'
+    src: figures/lamps/35.jpg
+    label: '35'
+    zoom: 'true'
+
+  - id: 'lamp-36'
+    src: figures/lamps/36.jpg
+    label: '36'
+    zoom: 'true'
+
+  - id: 'lamp-37'
+    src: figures/lamps/37.jpg
+    label: '37'
+    zoom: 'true'
+
+  - id: 'lamp-38'
+    src: figures/lamps/38.jpg
+    label: '38'
+    zoom: 'true'
+
+  - id: 'lamp-39'
+    src: figures/lamps/39.jpg
+    label: '39'
+    zoom: 'true'
+
+  - id: 'lamp-40'
+    src: figures/lamps/40.jpg
+    label: '40'
+    zoom: 'true'
+
+  - id: 'lamp-41'
+    src: figures/lamps/41.jpg
+    label: '41'
+    zoom: 'true'
+
+  - id: 'lamp-42'
+    src: figures/lamps/42.jpg
+    label: '42'
+    zoom: 'true'
+
+  - id: 'lamp-43'
+    src: figures/lamps/43.jpg
+    label: '43'
+    zoom: 'true'
+
+  - id: 'lamp-44'
+    src: figures/lamps/44.jpg
+    label: '44'
+    zoom: 'true'
+
+  - id: 'lamp-45'
+    src: figures/lamps/45.jpg
+    label: '45'
+    zoom: 'true'
+
+  - id: 'lamp-46'
+    src: figures/lamps/46.jpg
+    label: '46'
+    zoom: 'true'
+
+  - id: 'lamp-47'
+    src: figures/lamps/47.jpg
+    label: '47'
+    zoom: 'true'
+
+  - id: 'lamp-48'
+    src: figures/lamps/48.jpg
+    label: '48'
+    zoom: 'true'
+
+  - id: 'lamp-49'
+    src: figures/lamps/49.jpg
+    label: '49'
+    zoom: 'true'
+
+  - id: 'lamp-50'
+    src: figures/lamps/50.jpg
+    label: '50'
+    zoom: 'true'
+
+  - id: 'lamp-51'
+    src: figures/lamps/51.jpg
+    label: '51'
+    zoom: 'true'
+
+  - id: 'lamp-52'
+    src: figures/lamps/52.jpg
+    label: '52'
+    zoom: 'true'
+
+  - id: 'lamp-53'
+    src: figures/lamps/53.jpg
+    label: '53'
+    zoom: 'true'
+
+  - id: 'lamp-54'
+    src: figures/lamps/54.jpg
+    label: '54'
+    zoom: 'true'
+
+  - id: 'lamp-55'
+    src: figures/lamps/55.jpg
+    label: '55'
+    zoom: 'true'
+
+  - id: 'lamp-56'
+    src: figures/lamps/56.jpg
+    label: '56'
+    zoom: 'true'
+
+  - id: 'lamp-57'
+    src: figures/lamps/57.jpg
+    label: '57'
+    zoom: 'true'
+
+  - id: 'lamp-58'
+    src: figures/lamps/58.jpg
+    label: '58'
+    zoom: 'true'
+
+  - id: 'lamp-59'
+    src: figures/lamps/59.jpg
+    label: '59'
+    zoom: 'true'
+
+  - id: 'lamp-60'
+    src: figures/lamps/60.jpg
+    label: '60'
+    zoom: 'true'
+
+  - id: 'lamp-61'
+    src: figures/lamps/61.jpg
+    label: '61'
+    zoom: 'true'
+
+  - id: 'lamp-62'
+    src: figures/lamps/62.jpg
+    label: '62'
+    zoom: 'true'
+
+  - id: 'lamp-63'
+    src: figures/lamps/63.jpg
+    label: '63'
+    zoom: 'true'
+
+  - id: 'lamp-64'
+    src: figures/lamps/64.jpg
+    label: '64'
+    zoom: 'true'
+
+  - id: 'lamp-65'
+    src: figures/lamps/65.jpg
+    label: '65'
+    zoom: 'true'
+
+  - id: 'lamp-66'
+    src: figures/lamps/66.jpg
+    label: '66'
+    zoom: 'true'
+
+  - id: 'lamp-67'
+    src: figures/lamps/67.jpg
+    label: '67'
+    zoom: 'true'
+
+  - id: 'lamp-68'
+    src: figures/lamps/68.jpg
+    label: '68'
+    zoom: 'true'
+
+  - id: 'lamp-69'
+    src: figures/lamps/69.jpg
+    label: '69'
+    zoom: 'true'
+
+  - id: 'lamp-70'
+    src: figures/lamps/70.jpg
+    label: '70'
+    zoom: 'true'
+
+  - id: 'lamp-71'
+    src: figures/lamps/71.jpg
+    label: '71'
+    zoom: 'true'
+
+  - id: 'lamp-72'
+    src: figures/lamps/72.jpg
+    label: '72'
+    zoom: 'true'
+
+  - id: 'lamp-73'
+    src: figures/lamps/73.jpg
+    label: '73'
+    zoom: 'true'
+
+  - id: 'lamp-74'
+    src: figures/lamps/74.jpg
+    label: '74'
+    zoom: 'true'
+
+  - id: 'lamp-75'
+    src: figures/lamps/75.jpg
+    label: '75'
+    zoom: 'true'
+
+  - id: 'lamp-76'
+    src: figures/lamps/76.jpg
+    label: '76'
+    zoom: 'true'
+
+  - id: 'lamp-77'
+    src: figures/lamps/77.jpg
+    label: '77'
+    zoom: 'true'
+
+  - id: 'lamp-78'
+    src: figures/lamps/78.jpg
+    label: '78'
+    zoom: 'true'
+
+  - id: 'lamp-79'
+    src: figures/lamps/79.jpg
+    label: '79'
+    zoom: 'true'
+
+  - id: 'lamp-80'
+    src: figures/lamps/80.jpg
+    label: '80'
+    zoom: 'true'
+
+  - id: 'lamp-81'
+    src: figures/lamps/81.jpg
+    label: '81'
+    zoom: 'true'
+
+  - id: 'lamp-82'
+    src: figures/lamps/82.jpg
+    label: '82'
+    zoom: 'true'
+
+  - id: 'lamp-83'
+    src: figures/lamps/83.jpg
+    label: '83'
+    zoom: 'true'
+
+  - id: 'lamp-84'
+    src: figures/lamps/84.jpg
+    label: '84'
+    zoom: 'true'
+
+  - id: 'lamp-85'
+    src: figures/lamps/85.jpg
+    label: '85'
+    zoom: 'true'
+
+  - id: 'lamp-86'
+    src: figures/lamps/86.jpg
+    label: '86'
+    zoom: 'true'
+
+  - id: 'lamp-87'
+    src: figures/lamps/87.jpg
+    label: '87'
+    zoom: 'true'
+
+  - id: 'lamp-88'
+    src: figures/lamps/88.jpg
+    label: '88'
+    zoom: 'true'
+
+  - id: 'lamp-89'
+    src: figures/lamps/89.jpg
+    label: '89'
+    zoom: 'true'
+
+  - id: 'lamp-90'
+    src: figures/lamps/90.jpg
+    label: '90'
+    zoom: 'true'
+
+  - id: 'lamp-91'
+    src: figures/lamps/91.jpg
+    label: '91'
+    zoom: 'true'
+
+  - id: 'lamp-92'
+    src: figures/lamps/92.jpg
+    label: '92'
+    zoom: 'true'
+
+  - id: 'lamp-93'
+    src: figures/lamps/93.jpg
+    label: '93'
+    zoom: 'true'
+
+  - id: 'lamp-94'
+    src: figures/lamps/94.jpg
+    label: '94'
+    zoom: 'true'
+
+  - id: 'lamp-95'
+    src: figures/lamps/95.jpg
+    label: '95'
+    zoom: 'true'
+
+  - id: 'lamp-96'
+    src: figures/lamps/96.jpg
+    label: '96'
+    zoom: 'true'
+
+  - id: 'lamp-97'
+    src: figures/lamps/97.jpg
+    label: '97'
+    zoom: 'true'
+
+  - id: 'lamp-98'
+    src: figures/lamps/98.jpg
+    label: '98'
+    zoom: 'true'
+
+  - id: 'lamp-99'
+    src: figures/lamps/99.jpg
+    label: '99'
+    zoom: 'true'
+
+  - id: 'lamp-100'
+    src: figures/lamps/100.jpg
+    label: '100'
+    zoom: 'true'
+
+  - id: 'lamp-101'
+    src: figures/lamps/101.jpg
+    label: '101'
+    zoom: 'true'
+
+  - id: 'lamp-102'
+    src: figures/lamps/102.jpg
+    label: '102'
+    zoom: 'true'
+
+  - id: 'lamp-103'
+    src: figures/lamps/103.jpg
+    label: '103'
+    zoom: 'true'
+
+  - id: 'lamp-104'
+    src: figures/lamps/104.jpg
+    label: '104'
+    zoom: 'true'
+
+  - id: 'lamp-105'
+    src: figures/lamps/105.jpg
+    label: '105'
+    zoom: 'true'
+
+  - id: 'lamp-106'
+    src: figures/lamps/106.jpg
+    label: '106'
+    zoom: 'true'
+
+  - id: 'lamp-107'
+    src: figures/lamps/107.jpg
+    label: '107'
+    zoom: 'true'
+
+  - id: 'lamp-108'
+    src: figures/lamps/108.jpg
+    label: '108'
+    zoom: 'true'
+
+  - id: 'lamp-109'
+    src: figures/lamps/109.jpg
+    label: '109'
+    zoom: 'true'
+
+  - id: 'lamp-110'
+    src: figures/lamps/110.jpg
+    label: '110'
+    zoom: 'true'
+
+  - id: 'lamp-111'
+    src: figures/lamps/111.jpg
+    label: '111'
+    zoom: 'true'
+
+  - id: 'lamp-112'
+    src: figures/lamps/112.jpg
+    label: '112'
+    zoom: 'true'
+
+  - id: 'lamp-113'
+    src: figures/lamps/113.jpg
+    label: '113'
+    zoom: 'true'
+
+  - id: 'lamp-114'
+    src: figures/lamps/114.jpg
+    label: '114'
+    zoom: 'true'
+
+  - id: 'lamp-115'
+    src: figures/lamps/115.jpg
+    label: '115'
+    zoom: 'true'
+
+  - id: 'lamp-116'
+    src: figures/lamps/116.jpg
+    label: '116'
+    zoom: 'true'
+
+  - id: 'lamp-117'
+    src: figures/lamps/117.jpg
+    label: '117'
+    zoom: 'true'
+
+  - id: 'lamp-118'
+    src: figures/lamps/118.jpg
+    label: '118'
+    zoom: 'true'
+
+  - id: 'lamp-119'
+    src: figures/lamps/119.jpg
+    label: '119'
+    zoom: 'true'
+
+  - id: 'lamp-120'
+    src: figures/lamps/120.jpg
+    label: '120'
+    zoom: 'true'
+
+  - id: 'lamp-121'
+    src: figures/lamps/121.jpg
+    label: '121'
+    zoom: 'true'
+
+  - id: 'lamp-122'
+    src: figures/lamps/122.jpg
+    label: '122'
+    zoom: 'true'
+
+  - id: 'lamp-123'
+    src: figures/lamps/123.jpg
+    label: '123'
+    zoom: 'true'
+
+  - id: 'lamp-124'
+    src: figures/lamps/124.jpg
+    label: '124'
+    zoom: 'true'
+
+  - id: 'lamp-125'
+    src: figures/lamps/125.jpg
+    label: '125'
+    zoom: 'true'
+
+  - id: 'lamp-126'
+    src: figures/lamps/126.jpg
+    label: '126'
+    zoom: 'true'
+
+  - id: 'lamp-127'
+    src: figures/lamps/127.jpg
+    label: '127'
+    zoom: 'true'
+
+  - id: 'lamp-128'
+    src: figures/lamps/128.jpg
+    label: '128'
+    zoom: 'true'
+
+  - id: 'lamp-129'
+    src: figures/lamps/129.jpg
+    label: '129'
+    zoom: 'true'
+
+  - id: 'lamp-130'
+    src: figures/lamps/130.jpg
+    label: '130'
+    zoom: 'true'
+
+  - id: 'lamp-131'
+    src: figures/lamps/131.jpg
+    label: '131'
+    zoom: 'true'
+
+  - id: 'lamp-132'
+    src: figures/lamps/132.jpg
+    label: '132'
+    zoom: 'true'
+
+  - id: 'lamp-133'
+    src: figures/lamps/133.jpg
+    label: '133'
+    zoom: 'true'
+
+  - id: 'lamp-134'
+    src: figures/lamps/134.jpg
+    label: '134'
+    zoom: 'true'
+
+  - id: 'lamp-135'
+    src: figures/lamps/135.jpg
+    label: '135'
+    zoom: 'true'
+
+  - id: 'lamp-136'
+    src: figures/lamps/136.jpg
+    label: '136'
+    zoom: 'true'
+
+  - id: 'lamp-137'
+    src: figures/lamps/137.jpg
+    label: '137'
+    zoom: 'true'
+
+  - id: 'lamp-138'
+    src: figures/lamps/138.jpg
+    label: '138'
+    zoom: 'true'
+
+  - id: 'lamp-139'
+    src: figures/lamps/139.jpg
+    label: '139'
+    zoom: 'true'
+
+  - id: 'lamp-140'
+    src: figures/lamps/140.jpg
+    label: '140'
+    zoom: 'true'
+
+  - id: 'lamp-141'
+    src: figures/lamps/141.jpg
+    label: '141'
+    zoom: 'true'
+
+  - id: 'lamp-142'
+    src: figures/lamps/142.jpg
+    label: '142'
+    zoom: 'true'
+
+  - id: 'lamp-143'
+    src: figures/lamps/143.jpg
+    label: '143'
+    zoom: 'true'
+
+  - id: 'lamp-144'
+    src: figures/lamps/144.jpg
+    label: '144'
+    zoom: 'true'
+
+  - id: 'lamp-145'
+    src: figures/lamps/145.jpg
+    label: '145'
+    zoom: 'true'
+
+  - id: 'lamp-146'
+    src: figures/lamps/146.jpg
+    label: '146'
+    zoom: 'true'
+
+  - id: 'lamp-147'
+    src: figures/lamps/147.jpg
+    label: '147'
+    zoom: 'true'
+
+  - id: 'lamp-148'
+    src: figures/lamps/148.jpg
+    label: '148'
+    zoom: 'true'
+
+  - id: 'lamp-149'
+    src: figures/lamps/149.jpg
+    label: '149'
+    zoom: 'true'
+
+  - id: 'lamp-150'
+    src: figures/lamps/150.jpg
+    label: '150'
+    zoom: 'true'
+
+  - id: 'lamp-151'
+    src: figures/lamps/151.jpg
+    label: '151'
+    zoom: 'true'
+
+  - id: 'lamp-152'
+    src: figures/lamps/152.jpg
+    label: '152'
+    zoom: 'true'
+
+  - id: 'lamp-153'
+    src: figures/lamps/153.jpg
+    label: '153'
+    zoom: 'true'
+
+  - id: 'lamp-154'
+    src: figures/lamps/154.jpg
+    label: '154'
+    zoom: 'true'
+
+  - id: 'lamp-155'
+    src: figures/lamps/155.jpg
+    label: '155'
+    zoom: 'true'
+
+  - id: 'lamp-156'
+    src: figures/lamps/156.jpg
+    label: '156'
+    zoom: 'true'
+
+  - id: 'lamp-157'
+    src: figures/lamps/157.jpg
+    label: '157'
+    zoom: 'true'
+
+  - id: 'lamp-158'
+    src: figures/lamps/158.jpg
+    label: '158'
+    zoom: 'true'
+
+  - id: 'lamp-159'
+    src: figures/lamps/159.jpg
+    label: '159'
+    zoom: 'true'
+
+  - id: 'lamp-160'
+    src: figures/lamps/160.jpg
+    label: '160'
+    zoom: 'true'
+
+  - id: 'lamp-161'
+    src: figures/lamps/161.jpg
+    label: '161'
+    zoom: 'true'
+
+  - id: 'lamp-162'
+    src: figures/lamps/162.jpg
+    label: '162'
+    zoom: 'true'
+
+  - id: 'lamp-163'
+    src: figures/lamps/163.jpg
+    label: '163'
+    zoom: 'true'
+
+  - id: 'lamp-164'
+    src: figures/lamps/164.jpg
+    label: '164'
+    zoom: 'true'
+
+  - id: 'lamp-165'
+    src: figures/lamps/165.jpg
+    label: '165'
+    zoom: 'true'
+
+  - id: 'lamp-166'
+    src: figures/lamps/166.jpg
+    label: '166'
+    zoom: 'true'
+
+  - id: 'lamp-167'
+    src: figures/lamps/167.jpg
+    label: '167'
+    zoom: 'true'
+
+  - id: 'lamp-168'
+    src: figures/lamps/168.jpg
+    label: '168'
+    zoom: 'true'
+
+  - id: 'lamp-169'
+    src: figures/lamps/169.jpg
+    label: '169'
+    zoom: 'true'
+
+  - id: 'lamp-170'
+    src: figures/lamps/170.jpg
+    label: '170'
+    zoom: 'true'
+
+  - id: 'lamp-171'
+    src: figures/lamps/171.jpg
+    label: '171'
+    zoom: 'true'
+
+  - id: 'lamp-172'
+    src: figures/lamps/172.jpg
+    label: '172'
+    zoom: 'true'
+
+  - id: 'lamp-173'
+    src: figures/lamps/173.jpg
+    label: '173'
+    zoom: 'true'
+
+  - id: 'lamp-174'
+    src: figures/lamps/174.jpg
+    label: '174'
+    zoom: 'true'
+
+  - id: 'lamp-175'
+    src: figures/lamps/175.jpg
+    label: '175'
+    zoom: 'true'
+
+  - id: 'lamp-176'
+    src: figures/lamps/176.jpg
+    label: '176'
+    zoom: 'true'
+
+  - id: 'lamp-177'
+    src: figures/lamps/177.jpg
+    label: '177'
+    zoom: 'true'
+
+  - id: 'lamp-178'
+    src: figures/lamps/178.jpg
+    label: '178'
+    zoom: 'true'
+
+  - id: 'lamp-179'
+    src: figures/lamps/179.jpg
+    label: '179'
+    zoom: 'true'
+
+  - id: 'lamp-180'
+    src: figures/lamps/180.jpg
+    label: '180'
+    zoom: 'true'
+
+  - id: 'lamp-181'
+    src: figures/lamps/181.jpg
+    label: '181'
+    zoom: 'true'
+
+  - id: 'lamp-182'
+    src: figures/lamps/182.jpg
+    label: '182'
+    zoom: 'true'
+
+  - id: 'lamp-183'
+    src: figures/lamps/183.jpg
+    label: '183'
+    zoom: 'true'
+
+  - id: 'lamp-184'
+    src: figures/lamps/184.jpg
+    label: '184'
+    zoom: 'true'
+
+  - id: 'lamp-185'
+    src: figures/lamps/185.jpg
+    label: '185'
+    zoom: 'true'
+
+  - id: 'lamp-186'
+    src: figures/lamps/186.jpg
+    label: '186'
+    zoom: 'true'
+
+  - id: 'lamp-187'
+    src: figures/lamps/187.jpg
+    label: '187'
+    zoom: 'true'
+
+  - id: 'lamp-188'
+    src: figures/lamps/188.jpg
+    label: '188'
+    zoom: 'true'
+
+  - id: 'lamp-189'
+    src: figures/lamps/189.jpg
+    label: '189'
+    zoom: 'true'
+
+  - id: 'lamp-190'
+    src: figures/lamps/190.jpg
+    label: '190'
+    zoom: 'true'
+
+  - id: 'lamp-191'
+    src: figures/lamps/191.jpg
+    label: '191'
+    zoom: 'true'
+
+  - id: 'lamp-192'
+    src: figures/lamps/192.jpg
+    label: '192'
+    zoom: 'true'
+
+  - id: 'lamp-193'
+    src: figures/lamps/193.jpg
+    label: '193'
+    zoom: 'true'
+
+  - id: 'lamp-194'
+    src: figures/lamps/194.jpg
+    label: '194'
+    zoom: 'true'
+
+  - id: 'lamp-195'
+    src: figures/lamps/195.jpg
+    label: '195'
+    zoom: 'true'
+
+  - id: 'lamp-196'
+    src: figures/lamps/196.jpg
+    label: '196'
+    zoom: 'true'
+
+  - id: 'lamp-197'
+    src: figures/lamps/197.jpg
+    label: '197'
+    zoom: 'true'
+
+  - id: 'lamp-198'
+    src: figures/lamps/198.jpg
+    label: '198'
+    zoom: 'true'
+
+  - id: 'lamp-199'
+    src: figures/lamps/199.jpg
+    label: '199'
+    zoom: 'true'
+
+  - id: 'lamp-200'
+    src: figures/lamps/200.jpg
+    label: '200'
+    zoom: 'true'
+
+  - id: 'lamp-201'
+    src: figures/lamps/201.jpg
+    label: '201'
+    zoom: 'true'
+
+  - id: 'lamp-202'
+    src: figures/lamps/202.jpg
+    label: '202'
+    zoom: 'true'
+
+  - id: 'lamp-203'
+    src: figures/lamps/203.jpg
+    label: '203'
+    zoom: 'true'
+
+  - id: 'lamp-204'
+    src: figures/lamps/204.jpg
+    label: '204'
+    zoom: 'true'
+
+  - id: 'lamp-205'
+    src: figures/lamps/205.jpg
+    label: '205'
+    zoom: 'true'
+
+  - id: 'lamp-206'
+    src: figures/lamps/206.jpg
+    label: '206'
+    zoom: 'true'
+
+  - id: 'lamp-207'
+    src: figures/lamps/207.jpg
+    label: '207'
+    zoom: 'true'
+
+  - id: 'lamp-208'
+    src: figures/lamps/208.jpg
+    label: '208'
+    zoom: 'true'
+
+  - id: 'lamp-209'
+    src: figures/lamps/209.jpg
+    label: '209'
+    zoom: 'true'
+
+  - id: 'lamp-210'
+    src: figures/lamps/210.jpg
+    label: '210'
+    zoom: 'true'
+
+  - id: 'lamp-211'
+    src: figures/lamps/211.jpg
+    label: '211'
+    zoom: 'true'
+
+  - id: 'lamp-212'
+    src: figures/lamps/212.jpg
+    label: '212'
+    zoom: 'true'
+
+  - id: 'lamp-213'
+    src: figures/lamps/213.jpg
+    label: '213'
+    zoom: 'true'
+
+  - id: 'lamp-214'
+    src: figures/lamps/214.jpg
+    label: '214'
+    zoom: 'true'
+
+  - id: 'lamp-215'
+    src: figures/lamps/215.jpg
+    label: '215'
+    zoom: 'true'
+
+  - id: 'lamp-216'
+    src: figures/lamps/216.jpg
+    label: '216'
+    zoom: 'true'
+
+  - id: 'lamp-217'
+    src: figures/lamps/217.jpg
+    label: '217'
+    zoom: 'true'
+
+  - id: 'lamp-218'
+    src: figures/lamps/218.jpg
+    label: '218'
+    zoom: 'true'
+
+  - id: 'lamp-219'
+    src: figures/lamps/219.jpg
+    label: '219'
+    zoom: 'true'
+
+  - id: 'lamp-220'
+    src: figures/lamps/220.jpg
+    label: '220'
+    zoom: 'true'
+
+  - id: 'lamp-221'
+    src: figures/lamps/221.jpg
+    label: '221'
+    zoom: 'true'
+
+  - id: 'lamp-222'
+    src: figures/lamps/222.jpg
+    label: '222'
+    zoom: 'true'
+
+  - id: 'lamp-223'
+    src: figures/lamps/223.jpg
+    label: '223'
+    zoom: 'true'
+
+  - id: 'lamp-224'
+    src: figures/lamps/224.jpg
+    label: '224'
+    zoom: 'true'
+
+  - id: 'lamp-225'
+    src: figures/lamps/225.jpg
+    label: '225'
+    zoom: 'true'
+
+  - id: 'lamp-226'
+    src: figures/lamps/226.jpg
+    label: '226'
+    zoom: 'true'
+
+  - id: 'lamp-227'
+    src: figures/lamps/227.jpg
+    label: '227'
+    zoom: 'true'
+
+  - id: 'lamp-228'
+    src: figures/lamps/228.jpg
+    label: '228'
+    zoom: 'true'
+
+  - id: 'lamp-229'
+    src: figures/lamps/229.jpg
+    label: '229'
+    zoom: 'true'
+
+  - id: 'lamp-230'
+    src: figures/lamps/230.jpg
+    label: '230'
+    zoom: 'true'
+
+  - id: 'lamp-231'
+    src: figures/lamps/231.jpg
+    label: '231'
+    zoom: 'true'
+
+  - id: 'lamp-232'
+    src: figures/lamps/232.jpg
+    label: '232'
+    zoom: 'true'
+
+  - id: 'lamp-233'
+    src: figures/lamps/233.jpg
+    label: '233'
+    zoom: 'true'
+
+  - id: 'lamp-234'
+    src: figures/lamps/234.jpg
+    label: '234'
+    zoom: 'true'
+
+  - id: 'lamp-235'
+    src: figures/lamps/235.jpg
+    label: '235'
+    zoom: 'true'
+
+  - id: 'lamp-236'
+    src: figures/lamps/236.jpg
+    label: '236'
+    zoom: 'true'
+
+  - id: 'lamp-237'
+    src: figures/lamps/237.jpg
+    label: '237'
+    zoom: 'true'
+
+  - id: 'lamp-238'
+    src: figures/lamps/238.jpg
+    label: '238'
+    zoom: 'true'
+
+  - id: 'lamp-239'
+    src: figures/lamps/239.jpg
+    label: '239'
+    zoom: 'true'
+
+  - id: 'lamp-240'
+    src: figures/lamps/240.jpg
+    label: '240'
+    zoom: 'true'
+
+  - id: 'lamp-241'
+    src: figures/lamps/241.jpg
+    label: '241'
+    zoom: 'true'
+
+  - id: 'lamp-242'
+    src: figures/lamps/242.jpg
+    label: '242'
+    zoom: 'true'
+
+  - id: 'lamp-243'
+    src: figures/lamps/243.jpg
+    label: '243'
+    zoom: 'true'
+
+  - id: 'lamp-244'
+    src: figures/lamps/244.jpg
+    label: '244'
+    zoom: 'true'
+
+  - id: 'lamp-245'
+    src: figures/lamps/245.jpg
+    label: '245'
+    zoom: 'true'
+
+  - id: 'lamp-246'
+    src: figures/lamps/246.jpg
+    label: '246'
+    zoom: 'true'
+
+  - id: 'lamp-247'
+    src: figures/lamps/247.jpg
+    label: '247'
+    zoom: 'true'
+
+  - id: 'lamp-248'
+    src: figures/lamps/248.jpg
+    label: '248'
+    zoom: 'true'
+
+  - id: 'lamp-249'
+    src: figures/lamps/249.jpg
+    label: '249'
+    zoom: 'true'
+
+  - id: 'lamp-250'
+    src: figures/lamps/250.jpg
+    label: '250'
+    zoom: 'true'
+
+  - id: 'lamp-251'
+    src: figures/lamps/251.jpg
+    label: '251'
+    zoom: 'true'
+
+  - id: 'lamp-252'
+    src: figures/lamps/252.jpg
+    label: '252'
+    zoom: 'true'
+
+  - id: 'lamp-253'
+    src: figures/lamps/253.jpg
+    label: '253'
+    zoom: 'true'
+
+  - id: 'lamp-254'
+    src: figures/lamps/254.jpg
+    label: '254'
+    zoom: 'true'
+
+  - id: 'lamp-255'
+    src: figures/lamps/255.jpg
+    label: '255'
+    zoom: 'true'
+
+  - id: 'lamp-256'
+    src: figures/lamps/256.jpg
+    label: '256'
+    zoom: 'true'
+
+  - id: 'lamp-257'
+    src: figures/lamps/257.jpg
+    label: '257'
+    zoom: 'true'
+
+  - id: 'lamp-258'
+    src: figures/lamps/258.jpg
+    label: '258'
+    zoom: 'true'
+
+  - id: 'lamp-259'
+    src: figures/lamps/259.jpg
+    label: '259'
+    zoom: 'true'
+
+  - id: 'lamp-260'
+    src: figures/lamps/260.jpg
+    label: '260'
+    zoom: 'true'
+
+  - id: 'lamp-261'
+    src: figures/lamps/261.jpg
+    label: '261'
+    zoom: 'true'
+
+  - id: 'lamp-262'
+    src: figures/lamps/262.jpg
+    label: '262'
+    zoom: 'true'
+
+  - id: 'lamp-263'
+    src: figures/lamps/263.jpg
+    label: '263'
+    zoom: 'true'
+
+  - id: 'lamp-264'
+    src: figures/lamps/264.jpg
+    label: '264'
+    zoom: 'true'
+
+  - id: 'lamp-265'
+    src: figures/lamps/265.jpg
+    label: '265'
+    zoom: 'true'
+
+  - id: 'lamp-266'
+    src: figures/lamps/266.jpg
+    label: '266'
+    zoom: 'true'
+
+  - id: 'lamp-267'
+    src: figures/lamps/267.jpg
+    label: '267'
+    zoom: 'true'
+
+  - id: 'lamp-268'
+    src: figures/lamps/268.jpg
+    label: '268'
+    zoom: 'true'
+
+  - id: 'lamp-269'
+    src: figures/lamps/269.jpg
+    label: '269'
+    zoom: 'true'
+
+  - id: 'lamp-270'
+    src: figures/lamps/270.jpg
+    label: '270'
+    zoom: 'true'
+
+  - id: 'lamp-271'
+    src: figures/lamps/271.jpg
+    label: '271'
+    zoom: 'true'
+
+  - id: 'lamp-272'
+    src: figures/lamps/272.jpg
+    label: '272'
+    zoom: 'true'
+
+  - id: 'lamp-273'
+    src: figures/lamps/273.jpg
+    label: '273'
+    zoom: 'true'
+
+  - id: 'lamp-274'
+    src: figures/lamps/274.jpg
+    label: '274'
+    zoom: 'true'
+
+  - id: 'lamp-275'
+    src: figures/lamps/275.jpg
+    label: '275'
+    zoom: 'true'
+
+  - id: 'lamp-276'
+    src: figures/lamps/276.jpg
+    label: '276'
+    zoom: 'true'
+
+  - id: 'lamp-277'
+    src: figures/lamps/277.jpg
+    label: '277'
+    zoom: 'true'
+
+  - id: 'lamp-278'
+    src: figures/lamps/278.jpg
+    label: '278'
+    zoom: 'true'
+
+  - id: 'lamp-279'
+    src: figures/lamps/279.jpg
+    label: '279'
+    zoom: 'true'
+
+  - id: 'lamp-280'
+    src: figures/lamps/280.jpg
+    label: '280'
+    zoom: 'true'
+
+  - id: 'lamp-281'
+    src: figures/lamps/281.jpg
+    label: '281'
+    zoom: 'true'
+
+  - id: 'lamp-282'
+    src: figures/lamps/282.jpg
+    label: '282'
+    zoom: 'true'
+
+  - id: 'lamp-283'
+    src: figures/lamps/283.jpg
+    label: '283'
+    zoom: 'true'
+
+  - id: 'lamp-284'
+    src: figures/lamps/284.jpg
+    label: '284'
+    zoom: 'true'
+
+  - id: 'lamp-285'
+    src: figures/lamps/285.jpg
+    label: '285'
+    zoom: 'true'
+
+  - id: 'lamp-286'
+    src: figures/lamps/286.jpg
+    label: '286'
+    zoom: 'true'
+
+  - id: 'lamp-287'
+    src: figures/lamps/287.jpg
+    label: '287'
+    zoom: 'true'
+
+  - id: 'lamp-288'
+    src: figures/lamps/288.jpg
+    label: '288'
+    zoom: 'true'
+
+  - id: 'lamp-289'
+    src: figures/lamps/289.jpg
+    label: '289'
+    zoom: 'true'
+
+  - id: 'lamp-290'
+    src: figures/lamps/290.jpg
+    label: '290'
+    zoom: 'true'
+
+  - id: 'lamp-291'
+    src: figures/lamps/291.jpg
+    label: '291'
+    zoom: 'true'
+
+  - id: 'lamp-292'
+    src: figures/lamps/292.jpg
+    label: '292'
+    zoom: 'true'
+
+  - id: 'lamp-293'
+    src: figures/lamps/293.jpg
+    label: '293'
+    zoom: 'true'
+
+  - id: 'lamp-294'
+    src: figures/lamps/294.jpg
+    label: '294'
+    zoom: 'true'
+
+  - id: 'lamp-295'
+    src: figures/lamps/295.jpg
+    label: '295'
+    zoom: 'true'
+
+  - id: 'lamp-296'
+    src: figures/lamps/296.jpg
+    label: '296'
+    zoom: 'true'
+
+  - id: 'lamp-297'
+    src: figures/lamps/297.jpg
+    label: '297'
+    zoom: 'true'
+
+  - id: 'lamp-298'
+    src: figures/lamps/298.jpg
+    label: '298'
+    zoom: 'true'
+
+  - id: 'lamp-299'
+    src: figures/lamps/299.jpg
+    label: '299'
+    zoom: 'true'
+
+  - id: 'lamp-300'
+    src: figures/lamps/300.jpg
+    label: '300'
+    zoom: 'true'
+
+  - id: 'lamp-301'
+    src: figures/lamps/301.jpg
+    label: '301'
+    zoom: 'true'
+
+  - id: 'lamp-302'
+    src: figures/lamps/302.jpg
+    label: '302'
+    zoom: 'true'
+
+  - id: 'lamp-303'
+    src: figures/lamps/303.jpg
+    label: '303'
+    zoom: 'true'
+
+  - id: 'lamp-304'
+    src: figures/lamps/304.jpg
+    label: '304'
+    zoom: 'true'
+
+  - id: 'lamp-305'
+    src: figures/lamps/305.jpg
+    label: '305'
+    zoom: 'true'
+
+  - id: 'lamp-306'
+    src: figures/lamps/306.jpg
+    label: '306'
+    zoom: 'true'
+
+  - id: 'lamp-307'
+    src: figures/lamps/307.jpg
+    label: '307'
+    zoom: 'true'
+
+  - id: 'lamp-308'
+    src: figures/lamps/308.jpg
+    label: '308'
+    zoom: 'true'
+
+  - id: 'lamp-309'
+    src: figures/lamps/309.jpg
+    label: '309'
+    zoom: 'true'
+
+  - id: 'lamp-310'
+    src: figures/lamps/310.jpg
+    label: '310'
+    zoom: 'true'
+
+  - id: 'lamp-311'
+    src: figures/lamps/311.jpg
+    label: '311'
+    zoom: 'true'
+
+  - id: 'lamp-312'
+    src: figures/lamps/312.jpg
+    label: '312'
+    zoom: 'true'
+
+  - id: 'lamp-313'
+    src: figures/lamps/313.jpg
+    label: '313'
+    zoom: 'true'
+
+  - id: 'lamp-314'
+    src: figures/lamps/314.jpg
+    label: '314'
+    zoom: 'true'
+
+  - id: 'lamp-315'
+    src: figures/lamps/315.jpg
+    label: '315'
+    zoom: 'true'
+
+  - id: 'lamp-316'
+    src: figures/lamps/316.jpg
+    label: '316'
+    zoom: 'true'
+
+  - id: 'lamp-317'
+    src: figures/lamps/317.jpg
+    label: '317'
+    zoom: 'true'
+
+  - id: 'lamp-318'
+    src: figures/lamps/318.jpg
+    label: '318'
+    zoom: 'true'
+
+  - id: 'lamp-319'
+    src: figures/lamps/319.jpg
+    label: '319'
+    zoom: 'true'
+
+  - id: 'lamp-320'
+    src: figures/lamps/320.jpg
+    label: '320'
+    zoom: 'true'
+
+  - id: 'lamp-321'
+    src: figures/lamps/321.jpg
+    label: '321'
+    zoom: 'true'
+
+  - id: 'lamp-322'
+    src: figures/lamps/322.jpg
+    label: '322'
+    zoom: 'true'
+
+  - id: 'lamp-323'
+    src: figures/lamps/323.jpg
+    label: '323'
+    zoom: 'true'
+
+  - id: 'lamp-324'
+    src: figures/lamps/324.jpg
+    label: '324'
+    zoom: 'true'
+
+  - id: 'lamp-325'
+    src: figures/lamps/325.jpg
+    label: '325'
+    zoom: 'true'
+
+  - id: 'lamp-326'
+    src: figures/lamps/326.jpg
+    label: '326'
+    zoom: 'true'
+
+  - id: 'lamp-327'
+    src: figures/lamps/327.jpg
+    label: '327'
+    zoom: 'true'
+
+  - id: 'lamp-328'
+    src: figures/lamps/328.jpg
+    label: '328'
+    zoom: 'true'
+
+  - id: 'lamp-329'
+    src: figures/lamps/329.jpg
+    label: '329'
+    zoom: 'true'
+
+  - id: 'lamp-330'
+    src: figures/lamps/330.jpg
+    label: '330'
+    zoom: 'true'
+
+  - id: 'lamp-331'
+    src: figures/lamps/331.jpg
+    label: '331'
+    zoom: 'true'
+
+  - id: 'lamp-332'
+    src: figures/lamps/332.jpg
+    label: '332'
+    zoom: 'true'
+
+  - id: 'lamp-333'
+    src: figures/lamps/333.jpg
+    label: '333'
+    zoom: 'true'
+
+  - id: 'lamp-334'
+    src: figures/lamps/334.jpg
+    label: '334'
+    zoom: 'true'
+
+  - id: 'lamp-335'
+    src: figures/lamps/335.jpg
+    label: '335'
+    zoom: 'true'
+
+  - id: 'lamp-336'
+    src: figures/lamps/336.jpg
+    label: '336'
+    zoom: 'true'
+
+  - id: 'lamp-337'
+    src: figures/lamps/337.jpg
+    label: '337'
+    zoom: 'true'
+
+  - id: 'lamp-338'
+    src: figures/lamps/338.jpg
+    label: '338'
+    zoom: 'true'
+
+  - id: 'lamp-339'
+    src: figures/lamps/339.jpg
+    label: '339'
+    zoom: 'true'
+
+  - id: 'lamp-340'
+    src: figures/lamps/340.jpg
+    label: '340'
+    zoom: 'true'
+
+  - id: 'lamp-341'
+    src: figures/lamps/341.jpg
+    label: '341'
+    zoom: 'true'
+
+  - id: 'lamp-342'
+    src: figures/lamps/342.jpg
+    label: '342'
+    zoom: 'true'
+
+  - id: 'lamp-343'
+    src: figures/lamps/343.jpg
+    label: '343'
+    zoom: 'true'
+
+  - id: 'lamp-344'
+    src: figures/lamps/344.jpg
+    label: '344'
+    zoom: 'true'
+
+  - id: 'lamp-345'
+    src: figures/lamps/345.jpg
+    label: '345'
+    zoom: 'true'
+
+  - id: 'lamp-346'
+    src: figures/lamps/346.jpg
+    label: '346'
+    zoom: 'true'
+
+  - id: 'lamp-347'
+    src: figures/lamps/347.jpg
+    label: '347'
+    zoom: 'true'
+
+  - id: 'lamp-348'
+    src: figures/lamps/348.jpg
+    label: '348'
+    zoom: 'true'
+
+  - id: 'lamp-349'
+    src: figures/lamps/349.jpg
+    label: '349'
+    zoom: 'true'
+
+  - id: 'lamp-350'
+    src: figures/lamps/350.jpg
+    label: '350'
+    zoom: 'true'
+
+  - id: 'lamp-351'
+    src: figures/lamps/351.jpg
+    label: '351'
+    zoom: 'true'
+
+  - id: 'lamp-352'
+    src: figures/lamps/352.jpg
+    label: '352'
+    zoom: 'true'
+
+  - id: 'lamp-353'
+    src: figures/lamps/353.jpg
+    label: '353'
+    zoom: 'true'
+
+  - id: 'lamp-354'
+    src: figures/lamps/354.jpg
+    label: '354'
+    zoom: 'true'
+
+  - id: 'lamp-355'
+    src: figures/lamps/355.jpg
+    label: '355'
+    zoom: 'true'
+
+  - id: 'lamp-356'
+    src: figures/lamps/356.jpg
+    label: '356'
+    zoom: 'true'
+
+  - id: 'lamp-357'
+    src: figures/lamps/357.jpg
+    label: '357'
+    zoom: 'true'
+
+  - id: 'lamp-358'
+    src: figures/lamps/358.jpg
+    label: '358'
+    zoom: 'true'
+
+  - id: 'lamp-359'
+    src: figures/lamps/359.jpg
+    label: '359'
+    zoom: 'true'
+
+  - id: 'lamp-360'
+    src: figures/lamps/360.jpg
+    label: '360'
+    zoom: 'true'
+
+  - id: 'lamp-361'
+    src: figures/lamps/361.jpg
+    label: '361'
+    zoom: 'true'
+
+  - id: 'lamp-362'
+    src: figures/lamps/362.jpg
+    label: '362'
+    zoom: 'true'
+
+  - id: 'lamp-363'
+    src: figures/lamps/363.jpg
+    label: '363'
+    zoom: 'true'
+
+  - id: 'lamp-364'
+    src: figures/lamps/364.jpg
+    label: '364'
+    zoom: 'true'
+
+  - id: 'lamp-365'
+    src: figures/lamps/365.jpg
+    label: '365'
+    zoom: 'true'
+
+  - id: 'lamp-366'
+    src: figures/lamps/366.jpg
+    label: '366'
+    zoom: 'true'
+
+  - id: 'lamp-367'
+    src: figures/lamps/367.jpg
+    label: '367'
+    zoom: 'true'
+
+  - id: 'lamp-368'
+    src: figures/lamps/368.jpg
+    label: '368'
+    zoom: 'true'
+
+  - id: 'lamp-369'
+    src: figures/lamps/369.jpg
+    label: '369'
+    zoom: 'true'
+
+  - id: 'lamp-370'
+    src: figures/lamps/370.jpg
+    label: '370'
+    zoom: 'true'
+
+  - id: 'lamp-371'
+    src: figures/lamps/371.jpg
+    label: '371'
+    zoom: 'true'
+
+  - id: 'lamp-372'
+    src: figures/lamps/372.jpg
+    label: '372'
+    zoom: 'true'
+
+  - id: 'lamp-373'
+    src: figures/lamps/373.jpg
+    label: '373'
+    zoom: 'true'
+
+  - id: 'lamp-374'
+    src: figures/lamps/374.jpg
+    label: '374'
+    zoom: 'true'
+
+  - id: 'lamp-375'
+    src: figures/lamps/375.jpg
+    label: '375'
+    zoom: 'true'
+
+  - id: 'lamp-376'
+    src: figures/lamps/376.jpg
+    label: '376'
+    zoom: 'true'
+
+  - id: 'lamp-377'
+    src: figures/lamps/377.jpg
+    label: '377'
+    zoom: 'true'
+
+  - id: 'lamp-378'
+    src: figures/lamps/378.jpg
+    label: '378'
+    zoom: 'true'
+
+  - id: 'lamp-379'
+    src: figures/lamps/379.jpg
+    label: '379'
+    zoom: 'true'
+
+  - id: 'lamp-380'
+    src: figures/lamps/380.jpg
+    label: '380'
+    zoom: 'true'
+
+  - id: 'lamp-381'
+    src: figures/lamps/381.jpg
+    label: '381'
+    zoom: 'true'
+
+  - id: 'lamp-382'
+    src: figures/lamps/382.jpg
+    label: '382'
+    zoom: 'true'
+
+  - id: 'lamp-383'
+    src: figures/lamps/383.jpg
+    label: '383'
+    zoom: 'true'
+
+  - id: 'lamp-384'
+    src: figures/lamps/384.jpg
+    label: '384'
+    zoom: 'true'
+
+  - id: 'lamp-385'
+    src: figures/lamps/385.jpg
+    label: '385'
+    zoom: 'true'
+
+  - id: 'lamp-386'
+    src: figures/lamps/386.jpg
+    label: '386'
+    zoom: 'true'
+
+  - id: 'lamp-387'
+    src: figures/lamps/387.jpg
+    label: '387'
+    zoom: 'true'
+
+  - id: 'lamp-388'
+    src: figures/lamps/388.jpg
+    label: '388'
+    zoom: 'true'
+
+  - id: 'lamp-389'
+    src: figures/lamps/389.jpg
+    label: '389'
+    zoom: 'true'
+
+  - id: 'lamp-390'
+    src: figures/lamps/390.jpg
+    label: '390'
+    zoom: 'true'
+
+  - id: 'lamp-391'
+    src: figures/lamps/391.jpg
+    label: '391'
+    zoom: 'true'
+
+  - id: 'lamp-392'
+    src: figures/lamps/392.jpg
+    label: '392'
+    zoom: 'true'
+
+  - id: 'lamp-393'
+    src: figures/lamps/393.jpg
+    label: '393'
+    zoom: 'true'
+
+  - id: 'lamp-394'
+    src: figures/lamps/394.jpg
+    label: '394'
+    zoom: 'true'
+
+  - id: 'lamp-395'
+    src: figures/lamps/395.jpg
+    label: '395'
+    zoom: 'true'
+
+  - id: 'lamp-396'
+    src: figures/lamps/396.jpg
+    label: '396'
+    zoom: 'true'
+
+  - id: 'lamp-397'
+    src: figures/lamps/397.jpg
+    label: '397'
+    zoom: 'true'
+
+  - id: 'lamp-398'
+    src: figures/lamps/398.jpg
+    label: '398'
+    zoom: 'true'
+
+  - id: 'lamp-399'
+    src: figures/lamps/399.jpg
+    label: '399'
+    zoom: 'true'
+
+  - id: 'lamp-400'
+    src: figures/lamps/400.jpg
+    label: '400'
+    zoom: 'true'
+
+  - id: 'lamp-401'
+    src: figures/lamps/401.jpg
+    label: '401'
+    zoom: 'true'
+
+  - id: 'lamp-402'
+    src: figures/lamps/402.jpg
+    label: '402'
+    zoom: 'true'
+
+  - id: 'lamp-403'
+    src: figures/lamps/403.jpg
+    label: '403'
+    zoom: 'true'
+
+  - id: 'lamp-404'
+    src: figures/lamps/404.jpg
+    label: '404'
+    zoom: 'true'
+
+  - id: 'lamp-405'
+    src: figures/lamps/405.jpg
+    label: '405'
+    zoom: 'true'
+
+  - id: 'lamp-406'
+    src: figures/lamps/406.jpg
+    label: '406'
+    zoom: 'true'
+
+  - id: 'lamp-407'
+    src: figures/lamps/407.jpg
+    label: '407'
+    zoom: 'true'
+
+  - id: 'lamp-408'
+    src: figures/lamps/408.jpg
+    label: '408'
+    zoom: 'true'
+
+  - id: 'lamp-409'
+    src: figures/lamps/409.jpg
+    label: '409'
+    zoom: 'true'
+
+  - id: 'lamp-410'
+    src: figures/lamps/410.jpg
+    label: '410'
+    zoom: 'true'
+
+  - id: 'lamp-411'
+    src: figures/lamps/411.jpg
+    label: '411'
+    zoom: 'true'
+
+  - id: 'lamp-412'
+    src: figures/lamps/412.jpg
+    label: '412'
+    zoom: 'true'
+
+  - id: 'lamp-413'
+    src: figures/lamps/413.jpg
+    label: '413'
+    zoom: 'true'
+
+  - id: 'lamp-414'
+    src: figures/lamps/414.jpg
+    label: '414'
+    zoom: 'true'
+
+  - id: 'lamp-415'
+    src: figures/lamps/415.jpg
+    label: '415'
+    zoom: 'true'
+
+  - id: 'lamp-416'
+    src: figures/lamps/416.jpg
+    label: '416'
+    zoom: 'true'
+
+  - id: 'lamp-417'
+    src: figures/lamps/417.jpg
+    label: '417'
+    zoom: 'true'
+
+  - id: 'lamp-418'
+    src: figures/lamps/418.jpg
+    label: '418'
+    zoom: 'true'
+
+  - id: 'lamp-419'
+    src: figures/lamps/419.jpg
+    label: '419'
+    zoom: 'true'
+
+  - id: 'lamp-420'
+    src: figures/lamps/420.jpg
+    label: '420'
+    zoom: 'true'
+
+  - id: 'lamp-421'
+    src: figures/lamps/421.jpg
+    label: '421'
+    zoom: 'true'
+
+  - id: 'lamp-422'
+    src: figures/lamps/422.jpg
+    label: '422'
+    zoom: 'true'
+
+  - id: 'lamp-423'
+    src: figures/lamps/423.jpg
+    label: '423'
+    zoom: 'true'
+
+  - id: 'lamp-424'
+    src: figures/lamps/424.jpg
+    label: '424'
+    zoom: 'true'
+
+  - id: 'lamp-425'
+    src: figures/lamps/425.jpg
+    label: '425'
+    zoom: 'true'
+
+  - id: 'lamp-426'
+    src: figures/lamps/426.jpg
+    label: '426'
+    zoom: 'true'
+
+  - id: 'lamp-427'
+    src: figures/lamps/427.jpg
+    label: '427'
+    zoom: 'true'
+
+  - id: 'lamp-428'
+    src: figures/lamps/428.jpg
+    label: '428'
+    zoom: 'true'
+
+  - id: 'lamp-429'
+    src: figures/lamps/429.jpg
+    label: '429'
+    zoom: 'true'
+
+  - id: 'lamp-430'
+    src: figures/lamps/430.jpg
+    label: '430'
+    zoom: 'true'
+
+  - id: 'lamp-431'
+    src: figures/lamps/431.jpg
+    label: '431'
+    zoom: 'true'
+
+  - id: 'lamp-432'
+    src: figures/lamps/432.jpg
+    label: '432'
+    zoom: 'true'
+
+  - id: 'lamp-433'
+    src: figures/lamps/433.jpg
+    label: '433'
+    zoom: 'true'
+
+  - id: 'lamp-434'
+    src: figures/lamps/434.jpg
+    label: '434'
+    zoom: 'true'
+
+  - id: 'lamp-435'
+    src: figures/lamps/435.jpg
+    label: '435'
+    zoom: 'true'
+
+  - id: 'lamp-436'
+    src: figures/lamps/436.jpg
+    label: '436'
+    zoom: 'true'
+
+  - id: 'lamp-437'
+    src: figures/lamps/437.jpg
+    label: '437'
+    zoom: 'true'
+
+  - id: 'lamp-438'
+    src: figures/lamps/438.jpg
+    label: '438'
+    zoom: 'true'
+
+  - id: 'lamp-439'
+    src: figures/lamps/439.jpg
+    label: '439'
+    zoom: 'true'
+
+  - id: 'lamp-440'
+    src: figures/lamps/440.jpg
+    label: '440'
+    zoom: 'true'
+
+  - id: 'lamp-441'
+    src: figures/lamps/441.jpg
+    label: '441'
+    zoom: 'true'
+
+  - id: 'lamp-442'
+    src: figures/lamps/442.jpg
+    label: '442'
+    zoom: 'true'
+
+  - id: 'lamp-443'
+    src: figures/lamps/443.jpg
+    label: '443'
+    zoom: 'true'
+
+  - id: 'lamp-444'
+    src: figures/lamps/444.jpg
+    label: '444'
+    zoom: 'true'
+
+  - id: 'lamp-445'
+    src: figures/lamps/445.jpg
+    label: '445'
+    zoom: 'true'
+
+  - id: 'lamp-446'
+    src: figures/lamps/446.jpg
+    label: '446'
+    zoom: 'true'
+
+  - id: 'lamp-447'
+    src: figures/lamps/447.jpg
+    label: '447'
+    zoom: 'true'
+
+  - id: 'lamp-448'
+    src: figures/lamps/448.jpg
+    label: '448'
+    zoom: 'true'
+
+  - id: 'lamp-449'
+    src: figures/lamps/449.jpg
+    label: '449'
+    zoom: 'true'
+
+  - id: 'lamp-450'
+    src: figures/lamps/450.jpg
+    label: '450'
+    zoom: 'true'
+
+  - id: 'lamp-451'
+    src: figures/lamps/451.jpg
+    label: '451'
+    zoom: 'true'
+
+  - id: 'lamp-452'
+    src: figures/lamps/452.jpg
+    label: '452'
+    zoom: 'true'
+
+  - id: 'lamp-453'
+    src: figures/lamps/453.jpg
+    label: '453'
+    zoom: 'true'
+
+  - id: 'lamp-454'
+    src: figures/lamps/454.jpg
+    label: '454'
+    zoom: 'true'
+
+  - id: 'lamp-455'
+    src: figures/lamps/455.jpg
+    label: '455'
+    zoom: 'true'
+
+  - id: 'lamp-456'
+    src: figures/lamps/456.jpg
+    label: '456'
+    zoom: 'true'
+
+  - id: 'lamp-457'
+    src: figures/lamps/457.jpg
+    label: '457'
+    zoom: 'true'
+
+  - id: 'lamp-458'
+    src: figures/lamps/458.jpg
+    label: '458'
+    zoom: 'true'
+
+  - id: 'lamp-459'
+    src: figures/lamps/459.jpg
+    label: '459'
+    zoom: 'true'
+
+  - id: 'lamp-460'
+    src: figures/lamps/460.jpg
+    label: '460'
+    zoom: 'true'
+
+  - id: 'lamp-461'
+    src: figures/lamps/461.jpg
+    label: '461'
+    zoom: 'true'
+
+  - id: 'lamp-462'
+    src: figures/lamps/462.jpg
+    label: '462'
+    zoom: 'true'
+
+  - id: 'lamp-463'
+    src: figures/lamps/463.jpg
+    label: '463'
+    zoom: 'true'
+
+  - id: 'lamp-464'
+    src: figures/lamps/464.jpg
+    label: '464'
+    zoom: 'true'
+
+  - id: 'lamp-465'
+    src: figures/lamps/465.jpg
+    label: '465'
+    zoom: 'true'
+
+  - id: 'lamp-466'
+    src: figures/lamps/466.jpg
+    label: '466'
+    zoom: 'true'
+
+  - id: 'lamp-467'
+    src: figures/lamps/467.jpg
+    label: '467'
+    zoom: 'true'
+
+  - id: 'lamp-468'
+    src: figures/lamps/468.jpg
+    label: '468'
+    zoom: 'true'
+
+  - id: 'lamp-469'
+    src: figures/lamps/469.jpg
+    label: '469'
+    zoom: 'true'
+
+  - id: 'lamp-470'
+    src: figures/lamps/470.jpg
+    label: '470'
+    zoom: 'true'
+
+  - id: 'lamp-471'
+    src: figures/lamps/471.jpg
+    label: '471'
+    zoom: 'true'
+
+  - id: 'lamp-472'
+    src: figures/lamps/472.jpg
+    label: '472'
+    zoom: 'true'
+
+  - id: 'lamp-473'
+    src: figures/lamps/473.jpg
+    label: '473'
+    zoom: 'true'
+
+  - id: 'lamp-474'
+    src: figures/lamps/474.jpg
+    label: '474'
+    zoom: 'true'
+
+  - id: 'lamp-475'
+    src: figures/lamps/475.jpg
+    label: '475'
+    zoom: 'true'
+
+  - id: 'lamp-476'
+    src: figures/lamps/476.jpg
+    label: '476'
+    zoom: 'true'
+
+  - id: 'lamp-477'
+    src: figures/lamps/477.jpg
+    label: '477'
+    zoom: 'true'
+
+  - id: 'lamp-478'
+    src: figures/lamps/478.jpg
+    label: '478'
+    zoom: 'true'
+
+  - id: 'lamp-479'
+    src: figures/lamps/479.jpg
+    label: '479'
+    zoom: 'true'
+
+  - id: 'lamp-480'
+    src: figures/lamps/480.jpg
+    label: '480'
+    zoom: 'true'
+
+  - id: 'lamp-481'
+    src: figures/lamps/481.jpg
+    label: '481'
+    zoom: 'true'
+
+  - id: 'lamp-482'
+    src: figures/lamps/482.jpg
+    label: '482'
+    zoom: 'true'
+
+  - id: 'lamp-483'
+    src: figures/lamps/483.jpg
+    label: '483'
+    zoom: 'true'
+
+  - id: 'lamp-484'
+    src: figures/lamps/484.jpg
+    label: '484'
+    zoom: 'true'
+
+  - id: 'lamp-485'
+    src: figures/lamps/485.jpg
+    label: '485'
+    zoom: 'true'
+
+  - id: 'lamp-486'
+    src: figures/lamps/486.jpg
+    label: '486'
+    zoom: 'true'
+
+  - id: 'lamp-487'
+    src: figures/lamps/487.jpg
+    label: '487'
+    zoom: 'true'
+
+  - id: 'lamp-488'
+    src: figures/lamps/488.jpg
+    label: '488'
+    zoom: 'true'
+
+  - id: 'lamp-489'
+    src: figures/lamps/489.jpg
+    label: '489'
+    zoom: 'true'
+
+  - id: 'lamp-490'
+    src: figures/lamps/490.jpg
+    label: '490'
+    zoom: 'true'
+
+  - id: 'lamp-491'
+    src: figures/lamps/491.jpg
+    label: '491'
+    zoom: 'true'
+
+  - id: 'lamp-492'
+    src: figures/lamps/492.jpg
+    label: '492'
+    zoom: 'true'
+
+  - id: 'lamp-493'
+    src: figures/lamps/493.jpg
+    label: '493'
+    zoom: 'true'
+
+  - id: 'lamp-494'
+    src: figures/lamps/494.jpg
+    label: '494'
+    zoom: 'true'
+
+  - id: 'lamp-495'
+    src: figures/lamps/495.jpg
+    label: '495'
+    zoom: 'true'
+
+  - id: 'lamp-496'
+    src: figures/lamps/496.jpg
+    label: '496'
+    zoom: 'true'
+
+  - id: 'lamp-497'
+    src: figures/lamps/497.jpg
+    label: '497'
+    zoom: 'true'
+
+  - id: 'lamp-498'
+    src: figures/lamps/498.jpg
+    label: '498'
+    zoom: 'true'
+
+  - id: 'lamp-499'
+    src: figures/lamps/499.jpg
+    label: '499'
+    zoom: 'true'
+
+  - id: 'lamp-500'
+    src: figures/lamps/500.jpg
+    label: '500'
+    zoom: 'true'
+
+  - id: 'lamp-501'
+    src: figures/lamps/501.jpg
+    label: '501'
+    zoom: 'true'
+
+  - id: 'lamp-502'
+    src: figures/lamps/502.jpg
+    label: '502'
+    zoom: 'true'
+
+  - id: 'lamp-503'
+    src: figures/lamps/503.jpg
+    label: '503'
+    zoom: 'true'
+
+  - id: 'lamp-504'
+    src: figures/lamps/504.jpg
+    label: '504'
+    zoom: 'true'
+
+  - id: 'lamp-505'
+    src: figures/lamps/505.jpg
+    label: '505'
+    zoom: 'true'
+
+  - id: 'lamp-506'
+    src: figures/lamps/506.jpg
+    label: '506'
+    zoom: 'true'
+
+  - id: 'lamp-507'
+    src: figures/lamps/507.jpg
+    label: '507'
+    zoom: 'true'
+
+  - id: 'lamp-508'
+    src: figures/lamps/508.jpg
+    label: '508'
+    zoom: 'true'
+
+  - id: 'lamp-509'
+    src: figures/lamps/509.jpg
+    label: '509'
+    zoom: 'true'
+
+  - id: 'lamp-510'
+    src: figures/lamps/510.jpg
+    label: '510'
+    zoom: 'true'
+
+  - id: 'lamp-511'
+    src: figures/lamps/511.jpg
+    label: '511'
+    zoom: 'true'
+
+  - id: 'lamp-512'
+    src: figures/lamps/512.jpg
+    label: '512'
+    zoom: 'true'
+
+  - id: 'lamp-513'
+    src: figures/lamps/513.jpg
+    label: '513'
+    zoom: 'true'
+
+  - id: 'lamp-514'
+    src: figures/lamps/514.jpg
+    label: '514'
+    zoom: 'true'
+
+  - id: 'lamp-515'
+    src: figures/lamps/515.jpg
+    label: '515'
+    zoom: 'true'
+
+  - id: 'lamp-516'
+    src: figures/lamps/516.jpg
+    label: '516'
+    zoom: 'true'
+
+  - id: 'lamp-517'
+    src: figures/lamps/517.jpg
+    label: '517'
+    zoom: 'true'
+
+  - id: 'lamp-518'
+    src: figures/lamps/518.jpg
+    label: '518'
+    zoom: 'true'
+
+  - id: 'lamp-519'
+    src: figures/lamps/519.jpg
+    label: '519'
+    zoom: 'true'
+
+  - id: 'lamp-520'
+    src: figures/lamps/520.jpg
+    label: '520'
+    zoom: 'true'
+
+  - id: 'lamp-521'
+    src: figures/lamps/521.jpg
+    label: '521'
+    zoom: 'true'
+
+  - id: 'lamp-522'
+    src: figures/lamps/522.jpg
+    label: '522'
+    zoom: 'true'
+
+  - id: 'lamp-523'
+    src: figures/lamps/523.jpg
+    label: '523'
+    zoom: 'true'
+
+  - id: 'lamp-524'
+    src: figures/lamps/524.jpg
+    label: '524'
+    zoom: 'true'
+
+  - id: 'lamp-525'
+    src: figures/lamps/525.jpg
+    label: '525'
+    zoom: 'true'
+
+  - id: 'lamp-526'
+    src: figures/lamps/526.jpg
+    label: '526'
+    zoom: 'true'
+
+  - id: 'lamp-527'
+    src: figures/lamps/527.jpg
+    label: '527'
+    zoom: 'true'
+
+  - id: 'lamp-528'
+    src: figures/lamps/528.jpg
+    label: '528'
+    zoom: 'true'
+
+  - id: 'lamp-529'
+    src: figures/lamps/529.jpg
+    label: '529'
+    zoom: 'true'
+
+  - id: 'lamp-530'
+    src: figures/lamps/530.jpg
+    label: '530'
+    zoom: 'true'
+
+  - id: 'lamp-531'
+    src: figures/lamps/531.jpg
+    label: '531'
+    zoom: 'true'
+
+  - id: 'lamp-532'
+    src: figures/lamps/532.jpg
+    label: '532'
+    zoom: 'true'
+
+  - id: 'lamp-533'
+    src: figures/lamps/533.jpg
+    label: '533'
+    zoom: 'true'
+
+  - id: 'lamp-534'
+    src: figures/lamps/534.jpg
+    label: '534'
+    zoom: 'true'
+
+  - id: 'lamp-535'
+    src: figures/lamps/535.jpg
+    label: '535'
+    zoom: 'true'
+
+  - id: 'lamp-536'
+    src: figures/lamps/536.jpg
+    label: '536'
+    zoom: 'true'
+
+  - id: 'lamp-537'
+    src: figures/lamps/537.jpg
+    label: '537'
+    zoom: 'true'
+
+  - id: 'lamp-538'
+    src: figures/lamps/538.jpg
+    label: '538'
+    zoom: 'true'
+
+  - id: 'lamp-539'
+    src: figures/lamps/539.jpg
+    label: '539'
+    zoom: 'true'
+
+  - id: 'lamp-540'
+    src: figures/lamps/540.jpg
+    label: '540'
+    zoom: 'true'
+
+  - id: 'lamp-541'
+    src: figures/lamps/541.jpg
+    label: '541'
+    zoom: 'true'
+
+  - id: 'lamp-542'
+    src: figures/lamps/542.jpg
+    label: '542'
+    zoom: 'true'
+
+  - id: 'lamp-543'
+    src: figures/lamps/543.jpg
+    label: '543'
+    zoom: 'true'
+
+  - id: 'lamp-544'
+    src: figures/lamps/544.jpg
+    label: '544'
+    zoom: 'true'
+
+  - id: 'lamp-545'
+    src: figures/lamps/545.jpg
+    label: '545'
+    zoom: 'true'
+
+  - id: 'lamp-546'
+    src: figures/lamps/546.jpg
+    label: '546'
+    zoom: 'true'
+
+  - id: 'lamp-547'
+    src: figures/lamps/547.jpg
+    label: '547'
+    zoom: 'true'
+
+  - id: 'lamp-548'
+    src: figures/lamps/548.jpg
+    label: '548'
+    zoom: 'true'
+
+  - id: 'lamp-549'
+    src: figures/lamps/549.jpg
+    label: '549'
+    zoom: 'true'
+
+  - id: 'lamp-550'
+    src: figures/lamps/550.jpg
+    label: '550'
+    zoom: 'true'
+
+  - id: 'lamp-551'
+    src: figures/lamps/551.jpg
+    label: '551'
+    zoom: 'true'
+
+  - id: 'lamp-552'
+    src: figures/lamps/552.jpg
+    label: '552'
+    zoom: 'true'
+
+  - id: 'lamp-553'
+    src: figures/lamps/553.jpg
+    label: '553'
+    zoom: 'true'
+
+  - id: 'lamp-554'
+    src: figures/lamps/554.jpg
+    label: '554'
+    zoom: 'true'
+
+  - id: 'lamp-555'
+    src: figures/lamps/555.jpg
+    label: '555'
+    zoom: 'true'
+
+  - id: 'lamp-556'
+    src: figures/lamps/556.jpg
+    label: '556'
+    zoom: 'true'
+
+  - id: 'lamp-557'
+    src: figures/lamps/557.jpg
+    label: '557'
+    zoom: 'true'
+
+  - id: 'lamp-558'
+    src: figures/lamps/558.jpg
+    label: '558'
+    zoom: 'true'
+
+  - id: 'lamp-559'
+    src: figures/lamps/559.jpg
+    label: '559'
+    zoom: 'true'
+
+  - id: 'lamp-560'
+    src: figures/lamps/560.jpg
+    label: '560'
+    zoom: 'true'
+
+  - id: 'lamp-561'
+    src: figures/lamps/561.jpg
+    label: '561'
+    zoom: 'true'
+
+  - id: 'lamp-562'
+    src: figures/lamps/562.jpg
+    label: '562'
+    zoom: 'true'
+
+  - id: 'lamp-563'
+    src: figures/lamps/563.jpg
+    label: '563'
+    zoom: 'true'
+
+  - id: 'lamp-564'
+    src: figures/lamps/564.jpg
+    label: '564'
+    zoom: 'true'
+
+  - id: 'lamp-565'
+    src: figures/lamps/565.jpg
+    label: '565'
+    zoom: 'true'
+
+  - id: 'lamp-566'
+    src: figures/lamps/566.jpg
+    label: '566'
+    zoom: 'true'
+
+  - id: 'lamp-567'
+    src: figures/lamps/567.jpg
+    label: '567'
+    zoom: 'true'
+
+  - id: 'lamp-568'
+    src: figures/lamps/568.jpg
+    label: '568'
+    zoom: 'true'
+
+  - id: 'lamp-569'
+    src: figures/lamps/569.jpg
+    label: '569'
+    zoom: 'true'
+
+  - id: 'lamp-570'
+    src: figures/lamps/570.jpg
+    label: '570'
+    zoom: 'true'
+
+  - id: 'lamp-571'
+    src: figures/lamps/571.jpg
+    label: '571'
+    zoom: 'true'
+
+  - id: 'lamp-572'
+    src: figures/lamps/572.jpg
+    label: '572'
+    zoom: 'true'
+
+  - id: 'lamp-573'
+    src: figures/lamps/573.jpg
+    label: '573'
+    zoom: 'true'
+
+  - id: 'lamp-574'
+    src: figures/lamps/574.jpg
+    label: '574'
+    zoom: 'true'
+
+  - id: 'lamp-575'
+    src: figures/lamps/575.jpg
+    label: '575'
+    zoom: 'true'
+
+  - id: 'lamp-576'
+    src: figures/lamps/576.jpg
+    label: '576'
+    zoom: 'true'
+
+  - id: 'lamp-577'
+    src: figures/lamps/577.jpg
+    label: '577'
+    zoom: 'true'
+
+  - id: 'lamp-578'
+    src: figures/lamps/578.jpg
+    label: '578'
+    zoom: 'true'
+
+  - id: 'lamp-579'
+    src: figures/lamps/579.jpg
+    label: '579'
+    zoom: 'true'
+
+  - id: 'lamp-580'
+    src: figures/lamps/580.jpg
+    label: '580'
+    zoom: 'true'
+
+  - id: 'lamp-581'
+    src: figures/lamps/581.jpg
+    label: '581'
+    zoom: 'true'
+
+  - id: 'lamp-582'
+    src: figures/lamps/582.jpg
+    label: '582'
+    zoom: 'true'
+
+  - id: 'lamp-583'
+    src: figures/lamps/583.jpg
+    label: '583'
+    zoom: 'true'
+
+  - id: 'lamp-584'
+    src: figures/lamps/584.jpg
+    label: '584'
+    zoom: 'true'
+
+  - id: 'lamp-585'
+    src: figures/lamps/585.jpg
+    label: '585'
+    zoom: 'true'
+
+  - id: 'lamp-586'
+    src: figures/lamps/586.jpg
+    label: '586'
+    zoom: 'true'
+
+  - id: 'lamp-587'
+    src: figures/lamps/587.jpg
+    label: '587'
+    zoom: 'true'
+
+  - id: 'lamp-588'
+    src: figures/lamps/588.jpg
+    label: '588'
+    zoom: 'true'
+
+  - id: 'lamp-589'
+    src: figures/lamps/589.jpg
+    label: '589'
+    zoom: 'true'
+
+  - id: 'lamp-590'
+    src: figures/lamps/590.jpg
+    label: '590'
+    zoom: 'true'
+
+  - id: 'lamp-591'
+    src: figures/lamps/591.jpg
+    label: '591'
+    zoom: 'true'
+
+  - id: 'lamp-592'
+    src: figures/lamps/592.jpg
+    label: '592'
+    zoom: 'true'
+
+  - id: 'lamp-593'
+    src: figures/lamps/593.jpg
+    label: '593'
+    zoom: 'true'
+
+  - id: 'lamp-594'
+    src: figures/lamps/594.jpg
+    label: '594'
+    zoom: 'true'
+
+  - id: 'lamp-595'
+    src: figures/lamps/595.jpg
+    label: '595'
+    zoom: 'true'
+
+  - id: 'lamp-596'
+    src: figures/lamps/596.jpg
+    label: '596'
+    zoom: 'true'
+
+  - id: 'lamp-597'
+    src: figures/lamps/597.jpg
+    label: '597'
+    zoom: 'true'
+
+  - id: 'lamp-598'
+    src: figures/lamps/598.jpg
+    label: '598'
+    zoom: 'true'
+
+  - id: 'lamp-599'
+    src: figures/lamps/599.jpg
+    label: '599'
+    zoom: 'true'
+
+  - id: 'lamp-600'
+    src: figures/lamps/600.jpg
+    label: '600'
+    zoom: 'true'
+
+  - id: 'lamp-601'
+    src: figures/lamps/601.jpg
+    label: '601'
+    zoom: 'true'
+
+  - id: 'lamp-602'
+    src: figures/lamps/602.jpg
+    label: '602'
+    zoom: 'true'
+
+  - id: 'lamp-603'
+    src: figures/lamps/603.jpg
+    label: '603'
+    zoom: 'true'
+
+  - id: 'lamp-604'
+    src: figures/lamps/604.jpg
+    label: '604'
+    zoom: 'true'
+
+  - id: 'lamp-605'
+    src: figures/lamps/605.jpg
+    label: '605'
+    zoom: 'true'
+
+  - id: 'lamp-606'
+    src: figures/lamps/606.jpg
+    label: '606'
+    zoom: 'true'
+
+  - id: 'lamp-607'
+    src: figures/lamps/607.jpg
+    label: '607'
+    zoom: 'true'
+
+  - id: 'lamp-608'
+    src: figures/lamps/608.jpg
+    label: '608'
+    zoom: 'true'
+
+  - id: 'lamp-609'
+    src: figures/lamps/609.jpg
+    label: '609'
+    zoom: 'true'
+
+  - id: 'lamp-610'
+    src: figures/lamps/610.jpg
+    label: '610'
+    zoom: 'true'
+
+  - id: 'lamp-611'
+    src: figures/lamps/611.jpg
+    label: '611'
+    zoom: 'true'
+
+  - id: 'lamp-612'
+    src: figures/lamps/612.jpg
+    label: '612'
+    zoom: 'true'
+
+  - id: 'lamp-613'
+    src: figures/lamps/613.jpg
+    label: '613'
+    zoom: 'true'
+
+  - id: 'lamp-614'
+    src: figures/lamps/614.jpg
+    label: '614'
+    zoom: 'true'
+
+  - id: 'lamp-615'
+    src: figures/lamps/615.jpg
+    label: '615'
+    zoom: 'true'
+
+  - id: 'lamp-616'
+    src: figures/lamps/616.jpg
+    label: '616'
+    zoom: 'true'
+
+  - id: 'lamp-617'
+    src: figures/lamps/617.jpg
+    label: '617'
+    zoom: 'true'
+
+  - id: 'lamp-618'
+    src: figures/lamps/618.jpg
+    label: '618'
+    zoom: 'true'
+
+  - id: 'lamp-619'
+    src: figures/lamps/619.jpg
+    label: '619'
+    zoom: 'true'
+
+  - id: 'lamp-620'
+    src: figures/lamps/620.jpg
+    label: '620'
+    zoom: 'true'
+
+  - id: 'lamp-621'
+    src: figures/lamps/621.jpg
+    label: '621'
+    zoom: 'true'
+
+  - id: 'lamp-622'
+    src: figures/lamps/622.jpg
+    label: '622'
+    zoom: 'true'
+
+  - id: 'lamp-623'
+    src: figures/lamps/623.jpg
+    label: '623'
+    zoom: 'true'
+
+  - id: 'lamp-624'
+    src: figures/lamps/624.jpg
+    label: '624'
+    zoom: 'true'
+
+  - id: 'lamp-625'
+    src: figures/lamps/625.jpg
+    label: '625'
+    zoom: 'true'
+
+  - id: 'lamp-626'
+    src: figures/lamps/626.jpg
+    label: '626'
+    zoom: 'true'
+
+  - id: 'lamp-627'
+    src: figures/lamps/627.jpg
+    label: '627'
+    zoom: 'true'
+
+  - id: 'lamp-628'
+    src: figures/lamps/628.jpg
+    label: '628'
+    zoom: 'true'
+
+  - id: 'lamp-629'
+    src: figures/lamps/629.jpg
+    label: '629'
+    zoom: 'true'
+
+  - id: 'lamp-630'
+    src: figures/lamps/630.jpg
+    label: '630'
+    zoom: 'true'
+
+  - id: 'lamp-631'
+    src: figures/lamps/631.jpg
+    label: '631'
+    zoom: 'true'
+
+  - id: "plate-1-2"
+    zoom: true
+    label: "Plate 1.2"
+    caption: "Water Fountain (82.DG.17), x-axial view."
     credit: ""
+    alt: ""
+    sequences:
+      - id: "figures/plate-1-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
+
+  - id: "plate-4-2"
+    zoom: true
+    label: "Plate 4.2"
+    caption: "Sugar caster (88.DH.127.1), x-axial view."
+    credit: ""
+    alt: ""
+    sequences:
+      - id: "figures/plate-4-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
+
+  - id: "plate-6-2"
+    zoom: true
+    label: "Plate 6.2"
+    caption: "Lidded tureen, liner, and stand (82.DG.13.1.a–d), x-axial view."
+    credit: ""
+    alt: ""
+    sequences:
+      - id: "figures/plate-6-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
+
+  - id: "plate-8-2"
+    zoom: true
+    label: "Plate 8.2"
+    caption: "*La Machine d’Argent* (2005.43), x-axial view."
+    credit: ""
+    alt: ""
+    sequences:
+      - id: "figures/plate-8-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
+
+  - id: "plate-9-2"
+    zoom: true
+    label: "Plate 9.2"
+    caption: "Sauceboat on Stand (71.DG.76.a–b), x-axial view."
+    credit: ""
+    alt: ""
+    sequences:
+      - id: "figures/plate-9-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
+
+  - id: "muybridge-sequence"
+    zoom: true
+    caption: "Eadweard J. Muybridge (American, born England, 1830 - 1904). *Animal Locomotion*, 1887.Collotype. Image: 23.8 × 30.8 cm (9 3/8 × 12 1/8 in.), Sheet: 47.3 × 60.6 cm (18 5/8 × 23 7/8 in.)"
+    credit: "The J. Paul Getty Museum, Los Angeles, 84.XM.628.38"
+    sequences:
+      - id: "figures/muybridge/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
+  
+  - id: "walking-sequence"
+    zoom: true
+    caption: "A walk through the garden."
+    credit: "The J. Paul Getty Museum"
+    sequences:
+      - id: "figures/walking-tour/"
+        behavior:
+          - continuous
+          - sequence
+
+  - id: 'portrait-1'
+    src: figures/portraits/107V32.jpg
+    label: 'Pl. 1'
+    caption: 'Jacques-Louis David (French, 1748 - 1825), *Portrait of Suzanne Le Peletier de Saint-Fargeau*, 1804. Oil on canvas. Unframed: 60.3 × 49.5 cm (23 3/4 × 19 1/2 in.), Framed [Outer Dim]: 83.2 × 73 × 8.3 cm (32 3/4 × 28 3/4 × 3 1/4 in.). The J. Paul Getty Museum, Los Angeles, 97.PA.36. https://www.getty.edu/art/collection/object/107V32'
+    zoom: true
+
+  - id: 'portrait-2'
+    src: figures/portraits/10P164.jpg
+    label: 'Pl. 2'
+    caption: 'Thomas Hendricksz. de Keyser (Dutch, about 1596 - 1667), *Portrait of a Young Man with a Ruff*, mid-1620s. Oil on copper. Unframed (Oval): 11.4 × 9 cm (4 1/2 × 3 9/16 in.). The J. Paul Getty Museum, Los Angeles, 2022.176. https://www.getty.edu/art/collection/object/10P164'
+    zoom: true
+
+  - id: 'portrait-3'
+    src: figures/portraits/103QRX.jpg
+    label: 'Pl. 3'
+    caption: 'Théodore Géricault (French, 1791 - 1824), *Study of the Model Joseph*, about 1818–1819. Oil on canvas. Unframed: 47 × 38.7 cm (18 1/2 × 15 1/4 in.), Framed [Outer Dim]: 67.6 × 59.1 × 7.6 cm (26 5/8 × 23 1/4 × 3 in.). The J. Paul Getty Museum, Los Angeles, 85.PA.407. https://www.getty.edu/art/collection/object/103QRX'
+    zoom: true
+
+  - id: 'portrait-4'
+    src: figures/portraits/103RE9.jpg
+    label: 'Pl. 4'
+    caption: 'Michael Sweerts (Flemish, 1618 - 1664), *Head of a Woman*, about 1654. Oil on panel. Unframed: 50.6 × 37.5 cm (19 15/16 × 14 3/4 in.), Framed [Outer Dim]: 67.9 × 56.4 × 4.8 cm (26 3/4 × 22 3/16 × 1 7/8 in.). The J. Paul Getty Museum, Los Angeles, 78.PB.259. https://www.getty.edu/art/collection/object/103RE9'
+    zoom: true
+
+  - id: 'portrait-5'
+    src: figures/portraits/103RG7.jpg
+    label: 'Pl. 5'
+    caption: 'Jean-Baptiste Perronneau (French, 1715 - 1783), *Charles-François Pinceloup de la Grange*, 1747. Oil on canvas. Unframed: 65.1 × 54.3 cm (25 5/8 × 21 3/8 in.), Framed [Outer Dim]: 81.9 × 70.2 × 5.7 cm (32 1/4 × 27 5/8 × 2 1/4 in.). The J. Paul Getty Museum, Los Angeles, 84.PA.664. https://www.getty.edu/art/collection/object/103RG7'
+    zoom: true
+
+  - id: 'portrait-6'
+    src: figures/portraits/103RGB.jpg
+    label: 'Pl. 6'
+    caption: 'Jean-Baptiste Perronneau (French, 1715 - 1783), *Magdaleine Pinceloup de la Grange, née de Parseval*, 1747. Oil on canvas. Unframed: 65.1 × 52.4 cm (25 5/8 × 20 5/8 in.), Framed [Outer Dim]: 81.9 × 70.2 × 5.7 cm (32 1/4 × 27 5/8 × 2 1/4 in.). The J. Paul Getty Museum, Los Angeles, 84.PA.665. https://www.getty.edu/art/collection/object/103RGB'
+    zoom: true
+
+  - id: 'portrait-7'
+    src: figures/portraits/103RGP.jpg
+    label: 'Pl. 7'
+    caption: 'Paul Cézanne (French, 1839 - 1906), *Portrait of Anthony Valabrègue*, 1869–1871. Oil on canvas. Unframed: 60 × 50.2 cm (23 5/8 × 19 3/4 in.), Framed [Outer Dim]: 71.8 × 61.8 × 5.7 cm (28 1/4 × 24 5/16 × 2 1/4 in.), Framed [Outer Dim]: 62 cm (24 7/16 in.), Framed [Sight Dim]: 58.2 × 48.6 cm (22 15/16 × 19 1/8 in.), Framed [Sight Dim]: 58.3 cm (22 15/16 in.). The J. Paul Getty Museum, Los Angeles, 85.PA.45. https://www.getty.edu/art/collection/object/103RGP'
+    zoom: true
+
+  - id: 'portrait-8'
+    src: figures/portraits/103RKA.jpg
+    label: 'Pl. 8'
+    caption: 'Jean-François Millet (French, 1814 - 1875), *Portrait of Louise-Antoinette Feuardent*, 1841. Oil on canvas. Unframed: 73.3 × 60 cm (28 7/8 × 23 5/8 in.), Framed [Outer Dim]: 101.6 × 87.9 × 8.3 cm (40 × 34 5/8 × 3 1/4 in.). The J. Paul Getty Museum, Los Angeles, 95.PA.67. https://www.getty.edu/art/collection/object/103RKA'
+    zoom: true
+
+  - id: "table-1"
+    src: "tables/evans-works.html"
+    media_type: table
+
+  - id: "vid-1"
+    poster: figures/evans-video-still.jpg
+    media_id: BpGN0UUtqqU
+    media_type: youtube
+    label: "Video 1"
+    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
+    credit: The J. Paul Getty Museum, Los Angeles
+
+  - id: "audio-1"
+    media_id: 336879231
+    media_type: soundcloud
+    label: "Audio 1"
+    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
+    credit: "© J. Paul Getty Trust"
