@@ -1,24 +1,23 @@
 ---
-title: Essay
-layout: essay
-order: 10
-abstract: 'Featuring 34 zooming figures and 2 360-degree object images ([Cat. 30](#cat-30-360) and [33](#cat-33-360)).'
+title: Entry
+layout: entry
+presentation: side-by-side
+order: 20
+object:
+  - id: 1
+abstract: Featuring 18 figure images 2 360-degree rotators (<a class="ref" data-annotation-ids="" data-figure-id="cat-40-360">Cat. 40</a> and <a class="ref" data-annotation-ids="" data-figure-id="cat-51-360">51</a>) in the lightbox, and 20 images in the text.
 ---
 
 **Test Links:**
 
-- Figure on this page: [link](#cat-32)
-- Figure near the top of the entry page: [link](/entry/#cat-5)
-- Figure further down the entry page: [link](/entry/#cat-16)
+- Figure on this page: [link](#cat-16)
+- Figure near the top of the essay page: [link](/essay/#cat-4)
+- Figure further down the essay page: [link](/essay/#cat-32)
 - Figure far down the image index page: [link](/image-index/#lamp-448)
 
 --- 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. Cras tincidunt lobortis feugiat vivamus at augue eget. Nibh nisl condimentum id venenatis a condimentum vitae. Magna fringilla urna porttitor rhoncus dolor purus non enim. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Eu volutpat odio facilisis mauris sit. In iaculis nunc sed augue lacus viverra. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Pellentesque dignissim enim sit amet venenatis urna. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet non. Eget est lorem ipsum dolor sit amet. Quam elementum pulvinar etiam non. Eu scelerisque felis imperdiet proin. Tincidunt augue interdum velit euismod in pellentesque massa placerat duis. Aliquam ut porttitor leo a diam sollicitudin tempor. Nulla facilisi morbi tempus iaculis. Eleifend donec pretium vulputate sapien. Consequat semper viverra nam libero justo. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem.
-
-{% figure 'cat-4' %}
-
-Sit amet massa vitae tortor condimentum lacinia quis vel. Sed sed risus pretium quam. Fringilla urna porttitor rhoncus dolor. Varius morbi enim nunc faucibus a. Ac turpis egestas integer eget aliquet. Sed turpis tincidunt id aliquet risus feugiat. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Aliquet risus feugiat in ante. Eget aliquet nibh praesent tristique. Volutpat diam ut venenatis tellus in metus. Velit egestas dui id ornare arcu odio. Volutpat lacus laoreet non curabitur gravida arcu. Malesuada fames ac turpis egestas maecenas pharetra convallis. Morbi tincidunt augue interdum velit euismod in pellentesque massa. Est placerat in egestas erat imperdiet. Cursus euismod quis viverra nibh cras pulvinar mattis. Nec ultrices dui sapien eget. Habitant morbi tristique senectus et netus et malesuada fames ac.
 
 {% figure 'cat-5' %}
 
@@ -50,39 +49,5 @@ Est ultricies integer quis auctor elit sed. Volutpat lacus laoreet non curabitur
 
 {% figure 'cat-23' %}
 
-{% figure 'cat-24' %}
-
 Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Ac feugiat sed lectus vestibulum mattis ullamcorper velit sed. Nibh venenatis cras sed felis. Bibendum enim facilisis gravida neque convallis a. Lacus vestibulum sed arcu non. Nunc aliquet bibendum enim facilisis. Tincidunt lobortis feugiat vivamus at. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Tincidunt praesent semper feugiat nibh. Massa sed elementum tempus egestas sed. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Nunc lobortis mattis aliquam faucibus. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Tortor condimentum lacinia quis vel eros donec. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. Vel turpis nunc eget lorem dolor sed viverra.
-
-{% figuregroup '2' 'cat-25, cat-26' %}
-
-Odio ut sem nulla pharetra diam sit amet. Purus in massa tempor nec feugiat. Pretium viverra suspendisse potenti nullam ac tortor. Ultricies leo integer malesuada nunc vel risus commodo. A cras semper auctor neque vitae tempus quam pellentesque. Mattis aliquam faucibus purus in massa. Nunc non blandit massa enim nec dui nunc mattis. Morbi tincidunt ornare massa eget egestas purus viverra. Arcu risus quis varius quam quisque id diam vel. Nisl nisi scelerisque eu ultrices vitae auctor eu augue ut. A scelerisque purus semper eget duis at tellus at urna. Sit amet facilisis magna etiam tempor orci eu. Imperdiet massa tincidunt nunc pulvinar sapien et ligula. Iaculis at erat pellentesque adipiscing commodo. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus.
-
-{% figuregroup '3' 'cat-27, cat-28, cat-29' %}
-
-{% figure 'cat-30-360' %}
-
-Suspendisse potenti nullam ac tortor vitae purus. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Diam maecenas sed enim ut sem viverra aliquet. Lobortis feugiat vivamus at augue. Viverra tellus in hac habitasse platea dictumst. Elementum pulvinar etiam non quam lacus. Proin sed libero enim sed faucibus. Facilisi etiam dignissim diam quis. Vel eros donec ac odio tempor orci. Id consectetur purus ut faucibus pulvinar elementum integer enim neque.
-
-{% figuregroup '2' 'cat-31, cat-32' %}
-
-Mollis aliquam ut porttitor leo a diam sollicitudin tempor id. Massa enim nec dui nunc mattis enim ut tellus. Consectetur purus ut faucibus pulvinar elementum integer enim neque. Nisi scelerisque eu ultrices vitae auctor eu augue. Suspendisse potenti nullam ac tortor vitae. Facilisis leo vel fringilla est ullamcorper. Tortor consequat id porta nibh venenatis cras. Eu turpis egestas pretium aenean pharetra magna ac. Dignissim sodales ut eu sem integer vitae. Imperdiet dui accumsan sit amet nulla facilisi morbi.
-
-{% figure 'cat-33-360' %}
-
-{% figuregroup '2' 'cat-34, cat-35' %}
-
-Id faucibus nisl tincidunt eget nullam non nisi est sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Aliquam etiam erat velit scelerisque in dictum. Sed arcu non odio euismod lacinia at quis. Non quam lacus suspendisse faucibus interdum posuere. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Quis hendrerit dolor magna eget est lorem. Venenatis a condimentum vitae sapien pellentesque. Vulputate enim nulla aliquet porttitor. Enim nunc faucibus a pellentesque sit amet porttitor. Est velit egestas dui id ornare arcu. Enim ut tellus elementum sagittis vitae et leo duis. Sem fringilla ut morbi tincidunt augue. Viverra mauris in aliquam sem fringilla ut morbi. Viverra justo nec ultrices dui sapien eget.
-
-{% figuregroup '2' 'cat-36, cat-37' %}
-
-Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Platea dictumst quisque sagittis purus sit. Arcu cursus vitae congue mauris rhoncus. Ullamcorper sit amet risus nullam. Ullamcorper sit amet risus nullam eget felis eget nunc. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Pellentesque elit eget gravida cum sociis natoque penatibus. Diam quis enim lobortis scelerisque fermentum dui faucibus. Enim tortor at auctor urna nunc id cursus metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Feugiat vivamus at augue eget. Tristique risus nec feugiat in fermentum posuere. In iaculis nunc sed augue lacus viverra vitae.
-
-{% figure 'cat-38' %}
-
-{% figure 'cat-39' %}
-
-Quis auctor elit sed vulputate mi. Tempor orci dapibus ultrices in iaculis nunc sed augue. Nec nam aliquam sem et tortor consequat id porta nibh. Odio aenean sed adipiscing diam donec adipiscing tristique risus nec. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Faucibus turpis in eu mi bibendum neque egestas congue. Volutpat blandit aliquam etiam erat. Turpis in eu mi bibendum neque egestas. In mollis nunc sed id semper risus in hendrerit gravida. Imperdiet sed euismod nisi porta. Interdum consectetur libero id faucibus nisl. Arcu risus quis varius quam quisque id. Non pulvinar neque laoreet suspendisse. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl vel. Fermentum dui faucibus in ornare quam viverra orci sagittis eu. Id semper risus in hendrerit gravida rutrum. Nec dui nunc mattis enim ut tellus elementum sagittis vitae. Vitae suscipit tellus mauris a diam maecenas sed enim.
-
-Quam viverra orci sagittis eu volutpat odio facilisis. Fermentum iaculis eu non diam phasellus vestibulum lorem. Faucibus turpis in eu mi. At lectus urna duis convallis convallis tellus id. Pharetra diam sit amet nisl suscipit adipiscing. Nisi est sit amet facilisis magna. Mollis aliquam ut porttitor leo a. Ipsum faucibus vitae aliquet nec ullamcorper sit. Tellus orci ac auctor augue mauris augue neque gravida. Purus sit amet luctus venenatis lectus magna fringilla urna. Sed elementum tempus egestas sed sed risus. Id aliquet lectus proin nibh nisl. Sed faucibus turpis in eu mi bibendum neque egestas congue. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Ut consequat semper viverra nam libero justo laoreet sit. Porttitor massa id neque aliquam. Cras ornare arcu dui vivamus arcu felis bibendum ut tristique.
 

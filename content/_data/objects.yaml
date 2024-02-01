@@ -1,19 +1,52 @@
 object_display_order:
-  - artist
-  - year
-  - dimensions
   - medium
   - location
+  - collection
 
 object_list:
 
   - id: 1
-    title: ""
-    artist: ""
-    year: ""
-    medium: ""
-    dimensions: ""
-    location: ""
-    link:  
+    medium: Terracotta
+    location: South Italy and Sicily
+    collection: J. Paul Getty Museum
     figure:
-      - id: ""
+      - id: 'cat-40-360'
+      - id: 'cat-41'
+      - id: 'cat-42'
+      - id: 'cat-43'
+      - id: 'cat-44'
+      - id: 'cat-45'
+      - id: 'cat-46'
+      - id: 'cat-47'
+      - id: 'cat-48'
+      - id: 'cat-49'
+      - id: 'cat-50'
+      - id: 'cat-51-360'
+      - id: 'cat-52'
+      - id: 'cat-53'
+      - id: 'cat-54'
+      - id: 'cat-55'
+      - id: 'cat-56'
+      - id: 'cat-57'
+      - id: 'cat-58'
+      - id: 'cat-59'
+
+  - id: 2
+    figure:
+      - id: 'cat-5'
+      - id: 'lamp-219'
+      - id: 'fig-401'
+      - id: 'portrait-1'
+      - id: 'cat-54'
+      - id: 'plate-8-2'
+      - id: 'lamp-241'
+      - id: 'vid-08'
+      - id: 'portrait-3'
+      - id: 'cat-21'
+      - id: 'fig-063'
+      - id: 'table-06'
+      - id: 'portrait-5'
+      - id: 'fig-467'
+      - id: 'cat-30-360'
+      - id: 'lamp-550'
+      - id: 'portrait-7'
