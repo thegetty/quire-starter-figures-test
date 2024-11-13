@@ -27,13 +27,13 @@ Each includes 45–180 images that are about 150kb each.
 
 *Each includes 45 images that are about 400kb each.*
 
-{% figure 'cat-30' %}
+{% figure 'cat-30-360' %}
 
-{% figure 'cat-33' %}
+{% figure 'cat-33-360' %}
 
-{% figure 'cat-40' %}
+{% figure 'cat-40-360' %}
 
-{% figure 'cat-51' %}
+{% figure 'cat-51-360' %}
 
 ## Photograph
 
